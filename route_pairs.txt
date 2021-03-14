@@ -1,0 +1,1391 @@
+Target Abafungin
+Industrial:
+CC(C)=O.Cc1ccc(Oc2ccccc2C(=O)CCl)c(C)c1.NC(=S)NC1=NCCCN1>>Cc1ccc(Oc2ccccc2-c2csc(NC3=NCCCN3)n2)c(C)c1
+IBM RXN:
+Cc1ccc(Oc2ccccc2C(=O)CBr)c(C)c1.NC(=S)NC1=NCCCN1.C1COCCO1>>Cc1ccc(Oc2ccccc2-c2csc(NC3=NCCCN3)n2)c(C)c1
+CC(=O)c1ccccc1Oc1ccc(C)cc1C.BrBr.C1COCCO1>>Cc1ccc(Oc2ccccc2C(=O)CBr)c(C)c1
+CC(=O)c1ccccc1F.Cc1ccc(O)c(C)c1.O=C([O-])[O-].[K+].[K+].O=C([O-])[O-].[K+].[K+]>>CC(=O)c1ccccc1Oc1ccc(C)cc1C
+S=C=NC1=NCCCN1.CO.N>>NC(=S)NC1=NCCCN1
+C1CCOC1.NC1=NCCCN1.S=C(Cl)Cl>>S=C=NC1=NCCCN1
+Target Ampicillin precursor
+Industrial:
+Nc1ccccc1CC(=O)O.O.O=C(Cl)OCc1ccccc1.[Na+].[OH-]>>O=C(O)Cc1ccccc1NC(=O)OCc1ccccc1
+IBM RXN:
+Nc1ccccc1CC(=O)O.O=C(Cl)OCc1ccccc1.O=C([O-])O.[Na+].O=C([O-])O.[Na+]>>O=C(O)Cc1ccccc1NC(=O)OCc1ccccc1
+Target Fleroxacin
+Industrial:
+CN1CCNCC1.O=C(O)c1cn(CCF)c2c(F)c(F)c(F)cc2c1=O.c1ccncc1>>CN1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn(CCF)c3c2F)CC1
+IBM RXN:
+O=C(O)c1cn(CCF)c2c(F)c(F)c(F)cc2c1=O.C1CCC2=NCCCN2CC1.CC#N.CN1CCNCC1>>CN1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn(CCF)c3c2F)CC1
+CC(=O)O.CCOC(=O)c1cn(CCF)c2c(F)c(F)c(F)cc2c1=O.Cl>>O=C(O)c1cn(CCF)c2c(F)c(F)c(F)cc2c1=O
+Target Azanidazole
+Industrial:
+CC(=O)O.Cc1ccnc(N)n1.Cn1c([N+](=O)[O-])cnc1C=O.O=S(=O)(O)O>>Cn1c([N+](=O)[O-])cnc1/C=C/c1ccnc(N)n1
+IBM RXN:
+Cn1c([N+](=O)[O-])cnc1/C=C/c1ccnc(Cl)n1.N>>Cn1c([N+](=O)[O-])cnc1/C=C/c1ccnc(N)n1
+CCOP(=O)(Cc1ncc([N+](=O)[O-])n1C)OCC.O=Cc1ccnc(Cl)n1>>Cn1c([N+](=O)[O-])cnc1/C=C/c1ccnc(Cl)n1
+CCOP(OCC)OCC.Cn1c([N+](=O)[O-])cnc1CCl>>CCOP(=O)(Cc1ncc([N+](=O)[O-])n1C)OCC
+Target Flumequine
+Industrial:
+CC1CCc2cc(F)ccc2N1.CCOC=C(C(=O)OCC)C(=O)OCC.O=P(O)(O)O>>CCOC(=O)c1cn2c3c(cc(F)cc3c1=O)CCC2C
+CCOC(=O)c1cn2c3c(cc(F)cc3c1=O)CCC2C.O.[Na+].[OH-]>>CC1CCc2cc(F)cc3c(=O)c(C(=O)O)cn1c23
+IBM RXN:
+CCOC(=O)c1cn2c3c(cc(F)cc3c1=O)CCC2C.Cl.O.O[Na]>>CC1CCc2cc(F)cc3c(=O)c(C(=O)O)cn1c23
+CCOC(=O)C(=CN(C)C)C(=O)c1cc(F)cc2c1NC(C)CC2.CN(C)C=O.O=P(Cl)(Cl)Cl>>CCOC(=O)c1cn2c3c(cc(F)cc3c1=O)CCC2C
+CCOC(=O)CC(=O)c1cc(F)cc2c1NC(C)CC2.C1CCOC1.COC(OC)N(C)C>>CCOC(=O)C(=CN(C)C)C(=O)c1cc(F)cc2c1NC(C)CC2
+CC1CCc2cc(F)cc(C(=O)O)c2N1.C1CCOC1.CCOC(=O)CC(=O)O.O=C(n1ccnc1)n1ccnc1.[Cl-].[Cl-].[Mg+2]>>CCOC(=O)CC(=O)c1cc(F)cc2c1NC(C)CC2
+COC(=O)c1cc(F)cc2c1NC(C)CC2.CO.O.O[Na]>>CC1CCc2cc(F)cc(C(=O)O)c2N1
+COC(=O)c1cc(F)cc2ccc(C)nc12.CC(=O)O.O=[Pt]=O>>COC(=O)c1cc(F)cc2c1NC(C)CC2
+Cc1ccc2cc(F)cc(Br)c2n1.CCN(CC)CC.CO.Cl[Pd]Cl.[Fe+2].c1ccc(P(c2ccccc2)[c-]2cccc2)cc1.c1ccc(P(c2ccccc2)[c-]2cccc2)cc1.[C-]#[O+]>>COC(=O)c1cc(F)cc2ccc(C)nc12
+C/C=C/C=O.Cl.Nc1ccc(F)cc1Br.O.[NH4+].[OH-].[NH4+].[OH-]>>Cc1ccc2cc(F)cc(Br)c2n1
+Target Balofloxacin precursor
+Industrial:
+CC(=O)NC1CCCNC1.CCN(CC)CC.CCOC(=O)c1cn(C2CC2)c2c(F)c(F)c(F)cc2c1=O.CS(C)=O>>CCOC(=O)c1cn(C2CC2)c2c(F)c(N3CCCC(NC(C)=O)C3)c(F)cc2c1=O
+CCOC(=O)c1cn(C2CC2)c2c(F)c(N3CCCC(NC(C)=O)C3)c(F)cc2c1=O.Cl.O>>NC1CCCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2F)C1
+CN(C)C=O.C[O-].NC1CCCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2F)C1.[Na+]>>COc1c(N2CCCC(N)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12
+IBM RXN:
+CC#N.COc1c(F)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12.NC1CCCNC1>>COc1c(N2CCCC(N)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12
+Target Carbenicillin precursor
+Industrial:
+O=C([O-])C(C(=O)OCc1ccccc1)c1ccccc1.O=S(Cl)Cl.c1ccccc1>>O=C(Cl)C(C(=O)OCc1ccccc1)c1ccccc1
+IBM RXN:
+CN(C)C=O.O=C(O)C(C(=O)OCc1ccccc1)c1ccccc1.O=S(Cl)Cl>>O=C(Cl)C(C(=O)OCc1ccccc1)c1ccccc1
+Target Carbenicillin indanyl precursor
+Industrial:
+CCOCC.ClP(Cl)(Cl)(Cl)Cl.O=C(O)C(C(=O)O)c1ccccc1>>O=C(Cl)C(C(=O)Cl)c1ccccc1
+IBM RXN:
+ClCCl.O=C(Cl)C(=O)Cl.O=C(O)C(C(=O)O)c1ccccc1>>O=C(Cl)C(C(=O)Cl)c1ccccc1
+Target Cefadroxil precursor
+Industrial:
+CC(C)=O.CCOC(=O)Cl.CN1CCOCC1.COC(=O)/C=C(\C)NC(C(=O)[O-])c1ccc(O)cc1.[Na+]>>CCOC(=O)Oc1ccc(C(N/C(C)=C\C(=O)OC)C(=O)OC)cc1
+IBM RXN:
+COC(=O)/C=C(\C)NC(C(=O)OC)c1ccc(O)cc1.CCN(CC)CC.CCOC(=O)Cl.ClCCl>>CCOC(=O)Oc1ccc(C(N/C(C)=C\C(=O)OC)C(=O)OC)cc1
+CO.COC(=O)/C=C(\C)NC(C(=O)O)c1ccc(O)cc1.O=S(Cl)Cl>>COC(=O)/C=C(\C)NC(C(=O)OC)c1ccc(O)cc1
+Target Cefazolin
+Industrial:
+CC(=O)OCC1=C(C(=O)[O-])N2C(=O)[C@@H](N)[C@H]2SC1.O=C(Cl)Cn1cnnn1.[Na+]>>CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)Cn3cnnn3)[C@H]2SC1
+CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)Cn3cnnn3)[C@H]2SC1.Cc1nnc(S)s1>>Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@@H](NC(=O)Cn4cnnn4)[C@H]3SC2)s1
+IBM RXN:
+Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@@H](N)[C@H]3SC2)s1.O=C(Cl)Cn1cnnn1>>Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@@H](NC(=O)Cn4cnnn4)[C@H]3SC2)s1
+Target Lomefloxacin
+Industrial:
+CC1CNCCN1.CCn1cc(C(=O)O)c(=O)c2cc(F)c(F)c(F)c21.c1ccncc1>>CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21
+IBM RXN:
+CC1CNCCN1.CCn1cc(C(=O)O)c(=O)c2cc(F)c(F)c(F)c21>>CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21
+Target Ceftizoxime precursor a
+Industrial:
+CCOC(C)=O.CN(C)C=O.CO/N=C(\C(=O)O)c1csc(N)n1.C[Si](C)(C)C(C(N)=O)[Si](C)(C)C.O=P(Cl)(Cl)Cl>>CO/N=C(\C(=O)NC(C(N)=O)[Si](C)(C)C)c1csc(N)n1
+IBM RXN:
+CO/N=C(\C(=O)NC(C(N)=O)[Si](C)(C)C)c1csc(NC(c2ccccc2)(c2ccccc2)c2ccccc2)n1.O=CO>>CO/N=C(\C(=O)NC(C(N)=O)[Si](C)(C)C)c1csc(N)n1
+C[Si](C)(C)C(N)C(N)=O.CO/N=C(\C(=O)O)c1csc(NC(c2ccccc2)(c2ccccc2)c2ccccc2)n1.ClCCl>>CO/N=C(\C(=O)NC(C(N)=O)[Si](C)(C)C)c1csc(NC(c2ccccc2)(c2ccccc2)c2ccccc2)n1
+CCOC(=O)C(N)[Si](C)(C)C.N>>C[Si](C)(C)C(N)C(N)=O
+CCOC(=O)C(N=[N+]=[N-])[Si](C)(C)C.CO.[H][H].[Pd]>>CCOC(=O)C(N)[Si](C)(C)C
+CCOC(=O)C(Br)[Si](C)(C)C.CN(C)C=O.[N-]=[N+]=[N-].[Na+]>>CCOC(=O)C(N=[N+]=[N-])[Si](C)(C)C
+C1CCOC1.CC(C)[N-]C(C)C.[Li+].CCOC(=O)C[Si](C)(C)C.O=C1CCC(=O)N1Br.CC(C)[N-]C(C)C.[Li+]>>CCOC(=O)C(Br)[Si](C)(C)C
+Target Mesalamine
+Industrial:
+NN.O.O.O=C([O-])c1cc([N+](=O)[O-])ccc1O.[K+].[K+].[Ni].[OH-]>>Nc1ccc(O)c(C(=O)O)c1
+IBM RXN:
+O=C(O)c1cc([N+](=O)[O-])ccc1O.[H][H]>>Nc1ccc(O)c(C(=O)O)c1
+Target Cephaloglycin
+Industrial:
+N[C@@H](C(=O)O)c1ccccc1.O=C(Cl)OCc1ccccc1>>O=C(N[C@@H](C(=O)O)c1ccccc1)OCc1ccccc1
+C1CCOC1.CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](N)[C@H]2SC1.CC(C)COC(=O)Cl.CCN(CC)CC.O.O=C(N[C@@H](C(=O)O)c1ccccc1)OCc1ccccc1>>CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](NC(=O)OCc3ccccc3)c3ccccc3)[C@H]2SC1
+CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](NC(=O)OCc3ccccc3)c3ccccc3)[C@H]2SC1.CCO.[H][H].[Pd]>>CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccccc3)[C@H]2SC1
+IBM RXN:
+CC(=O)OCC1=C(C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)[C@@H](NC(=O)[C@H](NC(=O)OC(C)(C)C)c3ccccc3)[C@H]2SC1.COc1ccccc1.O=C(O)C(F)(F)F>>CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccccc3)[C@H]2SC1
+CC(=O)OCC1=C(C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)[C@@H](N)[C@H]2SC1.C(=NC1CCCCC1)=NC1CCCCC1.C1CCOC1.CC(C)(C)OC(=O)N[C@@H](C(=O)O)c1ccccc1>>CC(=O)OCC1=C(C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)[C@@H](NC(=O)[C@H](NC(=O)OC(C)(C)C)c3ccccc3)[C@H]2SC1
+CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](N)[C@H]2SC1.ClCCl.[N-]=[N+]=C(c1ccccc1)c1ccccc1>>CC(=O)OCC1=C(C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)[C@@H](N)[C@H]2SC1
+Target Trovafloxacin precursor
+Industrial:
+CC1=NCCCN1C.Cc1ccccc1.O=C1C=CC(=O)N1Cc1ccccc1.O=[N+]([O-])CBr>>O=C1C2C(C(=O)N1Cc1ccccc1)C2[N+](=O)[O-]
+C1CCOC1.FB(F)F.O=C1C2C(C(=O)N1Cc1ccccc1)C2[N+](=O)[O-].[BH4-].[Na+]>>O=[N+]([O-])C1C2CN(Cc3ccccc3)CC21
+IBM RXN:
+[N-]=[N+]=C[N+](=O)[O-].C1=CCN(Cc2ccccc2)C1.CCN(CC)CC.ClCCl>>O=[N+]([O-])C1C2CN(Cc3ccccc3)CC21
+CN(C)C=O.C[N+](=O)[O-].Cc1ccc(S(=O)(=O)N=[N+]=[N-])cc1>>[N-]=[N+]=C[N+](=O)[O-]
+Target Cinoxacin
+Industrial:
+CC(=O)O.CCn1nc(C#N)c(=O)c2cc3c(cc21)OCO3.Cl.O>>CCn1nc(C(=O)O)c(=O)c2cc3c(cc21)OCO3
+IBM RXN:
+CCOC(=O)c1nn(CC)c2cc3c(cc2c1=O)OCO3.CCO.Cl.O[Na]>>CCn1nc(C(=O)O)c(=O)c2cc3c(cc21)OCO3
+CCOC(=O)c1n[nH]c2cc3c(cc2c1=O)OCO3.CC(C)=O.CCI.O=C([O-])[O-].[K+].[K+]>>CCOC(=O)c1nn(CC)c2cc3c(cc2c1=O)OCO3
+CCOC(=O)C(=NNc1ccc2c(c1)OCO2)C(=O)OCC.c1ccc(Oc2ccccc2)cc1>>CCOC(=O)c1n[nH]c2cc3c(cc2c1=O)OCO3
+CC(=O)[O-].[K+].CCO.CCOC(=O)CC(=O)OCC.Cl.Nc1ccc2c(c1)OCO2.O.O=N[O-].[Na+].CC(=O)[O-].[K+].O=N[O-].[Na+]>>CCOC(=O)C(=NNc1ccc2c(c1)OCO2)C(=O)OCC
+Target Mafenide
+Industrial:
+CC(=O)NCc1ccccc1.O=S(=O)(O)Cl>>CC(=O)NCc1ccc(S(=O)(=O)Cl)cc1
+CC(=O)NCc1ccc(S(=O)(=O)Cl)cc1.N.O>>CC(=O)NCc1ccc(S(N)(=O)=O)cc1
+CC(=O)NCc1ccc(S(N)(=O)=O)cc1.CC(=O)O.O>>NCc1ccc(S(N)(=O)=O)cc1
+IBM RXN:
+B.C1CCOC1.N#Cc1ccc(S(N)(=O)=O)cc1>>NCc1ccc(S(N)(=O)=O)cc1
+Target Cloxacillin
+Industrial:
+CC1(C)S[C@@H]2[C@H](N)C(=O)N2[C@H]1C(=O)O.Cc1onc(-c2ccccc2Cl)c1C(=O)Cl>>Cc1onc(-c2ccccc2Cl)c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)O)C(C)(C)S[C@H]12
+IBM RXN:
+Cc1onc(-c2ccccc2Cl)c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)OCc3ccccc3)C(C)(C)S[C@H]12.CO.[H][H].[Pd]>>Cc1onc(-c2ccccc2Cl)c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)O)C(C)(C)S[C@H]12
+CC1(C)S[C@@H]2[C@H](N)C(=O)N2[C@H]1C(=O)OCc1ccccc1.Cl.CC1(C)S[C@@H]2[C@H](N)C(=O)N2[C@H]1C(=O)OCc1ccccc1.Cl.Cc1onc(-c2ccccc2Cl)c1C(=O)Cl.ClCCl>>Cc1onc(-c2ccccc2Cl)c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)OCc3ccccc3)C(C)(C)S[C@H]12
+CC(C)(C)OC(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)OCc3ccccc3)C(C)(C)S[C@H]12.C1COCCO1.Cl.CCOCC>>CC1(C)S[C@@H]2[C@H](N)C(=O)N2[C@H]1C(=O)OCc1ccccc1.Cl
+CC(C)(C)OC(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)O)C(C)(C)S[C@H]12.BrCc1ccccc1.CN(C)C=O.O=C([O-])[O-].[K+].[K+]>>CC(C)(C)OC(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)OCc3ccccc3)C(C)(C)S[C@H]12
+C1CCOC1.CC(C)(C)OC(=O)OC(=O)OC(C)(C)C.CC1(C)S[C@@H]2[C@H](N)C(=O)N2[C@H]1C(=O)O.O.O[Na]>>CC(C)(C)OC(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)O)C(C)(C)S[C@H]12
+Target Cyclacillin
+Industrial:
+CC1(C)S[C@@H]2[C@H](N)C(=O)N2[C@H]1C(=O)O.CCN(CC)CC.CN(C)c1ccccc1.C[Si](C)(C)Cl.Cl.ClCCl.NC1(C(=O)O)CCCCC1>>CC1(C)S[C@@H]2[C@H](NC(=O)C3(N)CCCCC3)C(=O)N2[C@H]1C(=O)O
+IBM RXN:
+CC1(C)S[C@@H]2[C@H](NC(=O)C3(NC(=O)OCc4ccccc4)CCCCC3)C(=O)N2[C@H]1C(=O)O.[H][H].[Pd]>>CC1(C)S[C@@H]2[C@H](NC(=O)C3(N)CCCCC3)C(=O)N2[C@H]1C(=O)O
+COC(=O)[C@@H]1N2C(=O)[C@@H](NC(=O)C3(NC(=O)OCc4ccccc4)CCCCC3)[C@H]2SC1(C)C.C1CCOC1.CO.O.[Li]O>>CC1(C)S[C@@H]2[C@H](NC(=O)C3(NC(=O)OCc4ccccc4)CCCCC3)C(=O)N2[C@H]1C(=O)O
+COC(=O)[C@@H]1N2C(=O)[C@@H](N)[C@H]2SC1(C)C.ClCCl.O=C(NC1(C(=O)O)CCCCC1)OCc1ccccc1>>COC(=O)[C@@H]1N2C(=O)[C@@H](NC(=O)C3(NC(=O)OCc4ccccc4)CCCCC3)[C@H]2SC1(C)C
+Target Enoxacin precursor
+Industrial:
+CCOC(=O)N1CCNCC1.O=[N+]([O-])c1ccc(Cl)nc1Cl>>CCOC(=O)N1CCN(c2nc(Cl)ccc2[N+](=O)[O-])CC1
+CCO.CCOC(=O)N1CCN(c2nc(Cl)ccc2[N+](=O)[O-])CC1.N>>CCOC(=O)N1CCN(c2nc(N)ccc2[N+](=O)[O-])CC1
+CC(=O)O.CC(=O)OC(C)=O.CCOC(=O)N1CCN(c2nc(N)ccc2[N+](=O)[O-])CC1>>CCOC(=O)N1CCN(c2nc(NC(C)=O)ccc2[N+](=O)[O-])CC1
+CC(=O)O.CCOC(=O)N1CCN(c2nc(NC(C)=O)ccc2[N+](=O)[O-])CC1.[H][H].[Pd]>>CCOC(=O)N1CCN(c2nc(NC(C)=O)ccc2N)CC1
+IBM RXN:
+CCOC(=O)N1CCN(c2nc(NC(C)=O)ccc2[N+](=O)[O-])CC1.C1CCOC1.[Pd]>>CCOC(=O)N1CCN(c2nc(NC(C)=O)ccc2N)CC1
+CCOC(=O)N1CCN(c2nc(N)ccc2[N+](=O)[O-])CC1.CC(=O)Cl.CCN(CC)CC.ClCCl>>CCOC(=O)N1CCN(c2nc(NC(C)=O)ccc2[N+](=O)[O-])CC1
+CCOC(=O)N1CCNCC1.CN(C)C=O.Nc1ccc([N+](=O)[O-])c(Cl)n1>>CCOC(=O)N1CCN(c2nc(N)ccc2[N+](=O)[O-])CC1
+Target Epirizole
+Industrial:
+C=[N+]=[N-].CCOCC.COc1cc(C)nc(-n2[nH]c(C)cc2=O)n1>>COc1cc(C)nc(-n2nc(C)cc2OC)n1
+IBM RXN:
+COc1cc(C)nn1-c1nc(C)cc(Cl)n1.CO.CO[Na]>>COc1cc(C)nc(-n2nc(C)cc2OC)n1
+COc1cc(C)nn1-c1nc(C)cc(O)n1.Cc1ccccc1.O=P(Cl)(Cl)Cl>>COc1cc(C)nn1-c1nc(C)cc(Cl)n1
+Cc1cc(O)nc(-n2nc(C)cc2Br)n1.CO.C[O-].[Na+]>>COc1cc(C)nn1-c1nc(C)cc(O)n1
+CC#N.Cc1cc(Br)[nH]n1.Cc1cc(O)nc(Cl)n1>>Cc1cc(O)nc(-n2nc(C)cc2Br)n1
+Target Feclobuzone
+Industrial:
+C=O.CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O.CCO.O>>CCCCC1(CO)C(=O)N(c2ccccc2)N(c2ccccc2)C1=O
+CCCCC1(CO)C(=O)N(c2ccccc2)N(c2ccccc2)C1=O.CN(C)C=O.O=C(Cl)c1ccc(Cl)cc1.c1ccncc1>>CCCCC1(COC(=O)c2ccc(Cl)cc2)C(=O)N(c2ccccc2)N(c2ccccc2)C1=O
+IBM RXN:
+CCCCC1(CO)C(=O)N(c2ccccc2)N(c2ccccc2)C1=O.O=C(Cl)c1ccc(Cl)cc1.c1ccncc1>>CCCCC1(COC(=O)c2ccc(Cl)cc2)C(=O)N(c2ccccc2)N(c2ccccc2)C1=O
+C1CCOC1.C=O.CC(C)NC(C)C.CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O.[Li]CCCC>>CCCCC1(CO)C(=O)N(c2ccccc2)N(c2ccccc2)C1=O
+Target Fenbufen
+Industrial:
+O=C1CCC(=O)O1.O=[N+]([O-])c1ccccc1.[Al+3].[Cl-].[Cl-].[Cl-].c1ccc(-c2ccccc2)cc1>>O=C(O)CCC(=O)c1ccc(-c2ccccc2)cc1
+IBM RXN:
+CCOC(=O)CCC(=O)c1ccc(-c2ccccc2)cc1.CO.[Na+].[OH-].[Na+].[OH-]>>O=C(O)CCC(=O)c1ccc(-c2ccccc2)cc1
+Target Fenclofinac precursor
+Industrial:
+O=C(CCl)c1ccccc1.Oc1ccc(Cl)cc1Cl.[Cu]>>O=C(COc1ccc(Cl)cc1Cl)c1ccccc1
+IBM RXN:
+CC(C)=O.O=C(CBr)c1ccccc1.O=C([O-])[O-].[K+].[K+].Oc1ccc(Cl)cc1Cl.O=C([O-])[O-].[K+].[K+]>>O=C(COc1ccc(Cl)cc1Cl)c1ccccc1
+Target Meloxicam
+Industrial:
+COC(=O)C1=C(O)c2ccccc2S(=O)(=O)N1C.Cc1ccc(C)cc1.Cc1cnc(N)s1>>Cc1cnc(NC(=O)C2=C(O)c3ccccc3S(=O)(=O)N2C)s1
+IBM RXN:
+COC(=O)C1=C(O)c2ccccc2S(=O)(=O)N1C.Cc1cnc(N)s1>>Cc1cnc(NC(=O)C2=C(O)c3ccccc3S(=O)(=O)N2C)s1
+Target Fentiazac
+Industrial:
+CC([O-])=S.CO.COC(=O)CC(Br)C(=O)c1ccc(Cl)cc1.[K+]>>COC(=O)CC(SC(C)=O)C(=O)c1ccc(Cl)cc1
+COC(=O)CC(SC(C)=O)C(=O)c1ccc(Cl)cc1.O.[K+].[OH-]>>O=C(O)CC(S)C(=O)c1ccc(Cl)cc1
+CCNCC.CCO.N#Cc1ccccc1.O=C(O)CC(S)C(=O)c1ccc(Cl)cc1>>O=C(O)Cc1sc(-c2ccccc2)nc1-c1ccc(Cl)cc1
+IBM RXN:
+NC(=S)c1ccccc1.O=C(O)CC(Br)C(=O)c1ccc(Cl)cc1>>O=C(O)Cc1sc(-c2ccccc2)nc1-c1ccc(Cl)cc1
+Target Flufenamic acid
+Industrial:
+CCCCCO.Nc1cccc(C(F)(F)F)c1.O=C(O)c1ccccc1Cl.O=C([O-])[O-].[Cu].[K+].[K+]>>O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1
+IBM RXN:
+Nc1cccc(C(F)(F)F)c1.O=C(O)c1ccccc1Br.O=C([O-])[O-].[K+].[K+].O=C([O-])[O-].[K+].[K+]>>O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1
+Target Fluocinonide
+Industrial:
+CC(C)=O.C[C@]12C[C@H](O)[C@@]3(F)[C@@H](C[C@H](F)C4=CC(=O)C=C[C@@]43C)[C@@H]1C[C@@H](O)[C@]2(O)C(=O)CO.O.[O-][Cl+3]([O-])([O-])O>>CC1(C)O[C@@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1
+CC(=O)OC(C)=O.CC1(C)O[C@@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1.c1ccncc1>>CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@@H]1C[C@H]1[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]12C
+IBM RXN:
+CC1(C)O[C@@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1.CC(=O)OC(C)=O>>CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@@H]1C[C@H]1[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]12C
+C[C@]12C[C@H](O)[C@@]3(F)[C@@H](C[C@H](F)C4=CC(=O)C=C[C@@]43C)[C@@H]1C[C@@H](O)[C@]2(O)C(=O)CO.CC(C)=O.O=S(=O)(O)O>>CC1(C)O[C@@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1
+CC1(C)O[C@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1.O.O=C(O)C(F)(F)F>>C[C@]12C[C@H](O)[C@@]3(F)[C@@H](C[C@H](F)C4=CC(=O)C=C[C@@]43C)[C@@H]1C[C@@H](O)[C@]2(O)C(=O)CO
+CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@H]1C[C@H]1[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]12C.CO.[Na+].[OH-]>>CC1(C)O[C@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1
+CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@H]1C[C@H]1[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)C(=O)C[C@@]12C.CO.[BH4-].[Na+]>>CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@H]1C[C@H]1[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]12C
+CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@H]1C[C@H]1[C@@H]3C[C@@H](O)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)C(=O)C[C@@]12C.CCN(CC)S(F)(F)F.ClCCl>>CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@H]1C[C@H]1[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)C(=O)C[C@@]12C
+CC1(C)O[C@H]2C[C@H]3[C@@H]4C[C@@H](O)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)C(=O)C[C@]3(C)[C@]2(C(=O)CO)O1.CC(=O)OC(C)=O>>CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@H]1C[C@H]1[C@@H]3C[C@@H](O)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)C(=O)C[C@@]12C
+CC1(C)O[C@H]2C[C@H]3[C@@H]4C[C@@H](O)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)C(=O)C[C@]3(C)[C@]2(C(=O)COC(=O)c2ccccc2)O1.CO.C[O-].[Na+]>>CC1(C)O[C@H]2C[C@H]3[C@@H]4C[C@@H](O)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)C(=O)C[C@]3(C)[C@]2(C(=O)CO)O1
+CC1(C)O[C@H]2C[C@H]3[C@@H]4C[C@@H](O[Si](C)(C)C(C)(C)C)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)C(=O)C[C@]3(C)[C@]2(C(=O)COC(=O)c2ccccc2)O1.C1CCOC1.CCCC[N+](CCCC)(CCCC)CCCC.[F-]>>CC1(C)O[C@H]2C[C@H]3[C@@H]4C[C@@H](O)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)C(=O)C[C@]3(C)[C@]2(C(=O)COC(=O)c2ccccc2)O1
+CC1(C)O[C@H]2C[C@H]3[C@@H]4C[C@@H](O[Si](C)(C)C(C)(C)C)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)C(=O)C[C@]3(C)[C@]2(C(=O)CO)O1.CCN(CC)CC.ClCCl.O=C(Cl)c1ccccc1>>CC1(C)O[C@H]2C[C@H]3[C@@H]4C[C@@H](O[Si](C)(C)C(C)(C)C)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)C(=O)C[C@]3(C)[C@]2(C(=O)COC(=O)c2ccccc2)O1
+Target Glucametacin
+Industrial:
+COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1.ClC(Cl)Cl.O=S(Cl)Cl>>COc1ccc2c(c1)c(CC(=O)Cl)c(C)n2C(=O)c1ccc(Cl)cc1
+COc1ccc2c(c1)c(CC(=O)Cl)c(C)n2C(=O)c1ccc(Cl)cc1.Cl.ClC(Cl)Cl.N[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO.O.[Na+].[OH-]>>COc1ccc2c(c1)c(CC(=O)N[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO)c(C)n2C(=O)c1ccc(Cl)cc1
+IBM RXN:
+COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1.N[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO.O=C(n1ccnc1)n1ccnc1>>COc1ccc2c(c1)c(CC(=O)N[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO)c(C)n2C(=O)c1ccc(Cl)cc1
+Target Ibuproxam
+Industrial:
+CC(C)Cc1ccc(C(C)C(=O)O)cc1.CCO.O.O=S(=O)(O)O>>CCOC(=O)C(C)c1ccc(CC(C)C)cc1
+CCOC(=O)C(C)c1ccc(CC(C)C)cc1.CO.Cl.NO.[K+].[OH-]>>CC(C)Cc1ccc(C(C)C(=O)NO)cc1
+IBM RXN:
+COC(=O)C(C)c1ccc(CC(C)C)cc1.NO>>CC(C)Cc1ccc(C(C)C(=O)NO)cc1
+Target Isoxicam
+Industrial:
+CCOC(=O)C1=C(O)c2ccccc2S(=O)(=O)N1C.Cc1cc(N)no1.Cc1ccc(C)cc1>>Cc1cc(NC(=O)C2=C(O)c3ccccc3S(=O)(=O)N2C)no1
+IBM RXN:
+COC(=O)C1=C(O)c2ccccc2S(=O)(=O)N1C.Cc1cc(N)no1>>Cc1cc(NC(=O)C2=C(O)c3ccccc3S(=O)(=O)N2C)no1
+Target Meclofenamic acid
+Industrial:
+CCN1CCOCC1.COCCOCCOC.Cc1ccc(Cl)c(N)c1Cl.O=C([O-])c1ccccc1Br.[Br-].[Br-].[Cu+2].[K+]>>COC(=O)c1ccccc1Nc1c(Cl)ccc(C)c1Cl
+COC(=O)c1ccccc1Nc1c(Cl)ccc(C)c1Cl.Cl.O>>Cc1ccc(Cl)c(Nc2ccccc2C(=O)O)c1Cl
+IBM RXN:
+COC(=O)c1ccccc1Nc1c(Cl)ccc(C)c1Cl.CCO.O[Na]>>Cc1ccc(Cl)c(Nc2ccccc2C(=O)O)c1Cl
+CC(=O)[O-].CC(=O)[O-].[Pd+2].COC(=O)c1ccccc1Br.Cc1ccc(Cl)c(N)c1Cl.Cc1ccccc1.O=C([O-])[O-].[Cs+].[Cs+].c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1.CC(=O)[O-].CC(=O)[O-].[Pd+2].O=C([O-])[O-].[Cs+].[Cs+]>>COC(=O)c1ccccc1Nc1c(Cl)ccc(C)c1Cl
+Target Mofebutazone
+Industrial:
+CCCCC(C(=O)OCC)C(=O)OCC.NNc1ccccc1>>CCCCC1C(=O)NN(c2ccccc2)C1=O
+IBM RXN:
+CCCCC(C(=O)OCC)C(=O)OCC.CCO.NNc1ccccc1.[Na]>>CCCCC1C(=O)NN(c2ccccc2)C1=O
+Target Nabumetone
+Industrial:
+CC(=O)[O-].CO.COc1ccc2cc(/C(O)=C/C(C)=O)ccc2c1Br.O.[H][H].[Na+].[Pd]>>COc1ccc2cc(CCC(C)=O)ccc2c1
+IBM RXN:
+CCO.COc1ccc2cc(C=CC(C)=O)ccc2c1.[Pd]>>COc1ccc2cc(CCC(C)=O)ccc2c1
+Target Oxolamine
+Industrial:
+CCOCC.N=C(NO)c1ccccc1.O=C(Cl)CCCl>>ClCCc1nc(-c2ccccc2)no1
+CCNCC.ClCCc1nc(-c2ccccc2)no1.c1ccccc1>>CCN(CC)CCc1nc(-c2ccccc2)no1
+IBM RXN:
+CCN(CC)CCC(=O)O.N/C(=N/O)c1ccccc1>>CCN(CC)CCc1nc(-c2ccccc2)no1
+Target Parsalmide
+Industrial:
+CC(=O)Nc1ccc(OC(C)=O)c(C(=O)O)c1.O=S(Cl)Cl>>CC(=O)Nc1ccc(OC(C)=O)c(C(=O)Cl)c1
+CC(=O)Nc1ccc(OC(C)=O)c(C(=O)Cl)c1.CCCCN.[Na+].[OH-]>>CCCCNC(=O)c1cc(N)ccc1O
+C#CCBr.CC(C)O.CCCCNC(=O)c1cc(N)ccc1O.O.O=S(=O)(O)O.[Na]>>C#CCOc1ccc(N)cc1C(=O)NCCCC
+IBM RXN:
+C#CCOc1ccc([N+](=O)[O-])cc1C(=O)NCCCC.CC(=O)O.O.[Fe]>>C#CCOc1ccc(N)cc1C(=O)NCCCC
+C#CCOc1ccc([N+](=O)[O-])cc1C(=O)O.CCCCN>>C#CCOc1ccc([N+](=O)[O-])cc1C(=O)NCCCC
+C#CCO.O=C(O)c1cc([N+](=O)[O-])ccc1Cl.[NaH]>>C#CCOc1ccc([N+](=O)[O-])cc1C(=O)O
+Target Tiaramide
+Industrial:
+CCOC(=O)Cn1c(=O)sc2ccc(Cl)cc21.OCCN1CCNCC1>>O=C(Cn1c(=O)sc2ccc(Cl)cc21)N1CCN(CCO)CC1
+IBM RXN:
+CCOC(=O)Cn1c(=O)sc2ccc(Cl)cc21.OCCN1CCNCC1>>O=C(Cn1c(=O)sc2ccc(Cl)cc21)N1CCN(CCO)CC1
+C1CCOC1.CCOC(=O)CBr.O=c1[nH]c2cc(Cl)ccc2s1.[NaH]>>CCOC(=O)Cn1c(=O)sc2ccc(Cl)cc21
+Target Phenylbutazone
+Industrial:
+CCCCC(C(=O)OCC)C(=O)OCC.CCO.[Na].c1ccc(NNc2ccccc2)cc1>>CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O
+IBM RXN:
+CCCC=C1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O.CCO.[H][H].[Pd]>>CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O
+C1CCNCC1.CCCC=O.CCO.O=C1CC(=O)N(c2ccccc2)N1c1ccccc1>>CCCC=C1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O
+Target Pixifenide precursor
+Industrial:
+CC(=O)c1ccc(O)cc1.O.O=C(O)CCl.[Na+].[OH-]>>CC(=O)c1ccc(OCC(=O)O)cc1
+CC(=O)c1ccc(OCC(=O)O)cc1.CO.ClCCl.O=S(=O)(O)O>>COC(=O)COc1ccc(C(C)=O)cc1
+IBM RXN:
+CC(=O)c1ccc(O)cc1.COC(=O)CBr.O=C([O-])[O-].[K+].[K+].O=C([O-])[O-].[K+].[K+]>>COC(=O)COc1ccc(C(C)=O)cc1
+Target Proglumetacin
+Industrial:
+C(=NC1CCCCC1)=NC1CCCCC1.CCCN(CCC)C(=O)C(CCC(=O)OCCCN1CCN(CCO)CC1)NC(=O)c1ccccc1.CCOC(C)=O.COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1>>CCCN(CCC)C(=O)C(CCC(=O)OCCCN1CCN(CCOC(=O)Cc2c(C)n(C(=O)c3ccc(Cl)cc3)c3ccc(OC)cc23)CC1)NC(=O)c1ccccc1
+IBM RXN:
+COc1ccc2c(c1)c(CC(=O)OCCN1CCN(CCCO)CC1)c(C)n2C(=O)c1ccc(Cl)cc1.CCCN(CCC)C(=O)C(CCC(=O)O)NC(=O)c1ccccc1.CN(C)c1ccncc1>>CCCN(CCC)C(=O)C(CCC(=O)OCCCN1CCN(CCOC(=O)Cc2c(C)n(C(=O)c3ccc(Cl)cc3)c3ccc(OC)cc23)CC1)NC(=O)c1ccccc1
+COc1ccc2c(c1)c(CC(=O)OCCN1CCNCC1)c(C)n2C(=O)c1ccc(Cl)cc1.CC#N.O=C([O-])[O-].[K+].[K+].OCCCBr>>COc1ccc2c(c1)c(CC(=O)OCCN1CCN(CCCO)CC1)c(C)n2C(=O)c1ccc(Cl)cc1
+COc1ccc2c(c1)c(CC(=O)OCCN1CCN(C(=O)OC(C)(C)C)CC1)c(C)n2C(=O)c1ccc(Cl)cc1.ClCCl.O=C(O)C(F)(F)F>>COc1ccc2c(c1)c(CC(=O)OCCN1CCNCC1)c(C)n2C(=O)c1ccc(Cl)cc1
+CC(C)(C)OC(=O)N1CCN(CCO)CC1.COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1.ClCCl>>COc1ccc2c(c1)c(CC(=O)OCCN1CCN(C(=O)OC(C)(C)C)CC1)c(C)n2C(=O)c1ccc(Cl)cc1
+Target Zofenopril
+Industrial:
+C[C@H](CSC(=O)c1ccccc1)C(=O)Cl.Cc1ccccc1.O.O=C(O)[C@@H]1C[C@H](Sc2ccccc2)CN1>>C[C@H](CSC(=O)c1ccccc1)C(=O)N1C[C@@H](Sc2ccccc2)C[C@H]1C(=O)O
+IBM RXN:
+C[C@H](CS)C(=O)N1C[C@@H](Sc2ccccc2)C[C@H]1C(=O)O.CCN(CC)CC.ClCCl.O.O=C(Cl)c1ccccc1>>C[C@H](CSC(=O)c1ccccc1)C(=O)N1C[C@@H](Sc2ccccc2)C[C@H]1C(=O)O
+COC(=O)[C@@H]1C[C@H](Sc2ccccc2)CN1C(=O)[C@H](C)CSC(C)=O.C1CCOC1.O.[Li]O>>C[C@H](CS)C(=O)N1C[C@@H](Sc2ccccc2)C[C@H]1C(=O)O
+COC(=O)[C@@H]1C[C@@H](OS(C)(=O)=O)CN1C(=O)[C@H](C)CSC(C)=O.Sc1ccccc1>>COC(=O)[C@@H]1C[C@H](Sc2ccccc2)CN1C(=O)[C@H](C)CSC(C)=O
+COC(=O)[C@@H]1C[C@@H](O)CN1C(=O)[C@H](C)CSC(C)=O.CS(=O)(=O)Cl.ClCCl.c1ccncc1>>COC(=O)[C@@H]1C[C@@H](OS(C)(=O)=O)CN1C(=O)[C@H](C)CSC(C)=O
+CC(=O)SC[C@@H](C)C(=O)Cl.CCN(CC)CC.COC(=O)[C@@H]1C[C@@H](O)CN1.ClCCl.O>>COC(=O)[C@@H]1C[C@@H](O)CN1C(=O)[C@H](C)CSC(C)=O
+CC(=O)SC[C@@H](C)C(=O)O.O=C(Cl)C(=O)Cl>>CC(=O)SC[C@@H](C)C(=O)Cl
+Target Xipamid
+Industrial:
+O=C(O)c1ccc(Cl)cc1O.O=S(=O)(O)Cl>>O=C(O)c1cc(S(=O)(=O)Cl)c(Cl)cc1O
+N.O=C(O)c1cc(S(=O)(=O)Cl)c(Cl)cc1O>>NS(=O)(=O)c1cc(C(=O)O)c(O)cc1Cl
+Cc1cccc(C)c1N.ClP(Cl)Cl.Clc1ccccc1.NS(=O)(=O)c1cc(C(=O)O)c(O)cc1Cl>>Cc1cccc(C)c1NC(=O)c1cc(S(N)(=O)=O)c(Cl)cc1O
+IBM RXN:
+COc1cc(Cl)c(S(N)(=O)=O)cc1C(=O)Nc1c(C)cccc1C.ClB(Cl)Cl.ClCCl>>Cc1cccc(C)c1NC(=O)c1cc(S(N)(=O)=O)c(Cl)cc1O
+Target Tolonidine
+Industrial:
+Cc1ccc(N)c(Cl)c1.N#C[S-].[NH4+]>>Cc1ccc(NC(N)=S)c(Cl)c1
+CI.CO.Cc1ccc(NC(N)=S)c(Cl)c1>>CSC(=N)Nc1ccc(C)cc1Cl~I
+CSC(=N)Nc1ccc(C)cc1Cl.NCCN>>Cc1ccc(NC2=NCCN2)c(Cl)c1
+IBM RXN:
+ClC1=NCCN1.Cc1ccc(N)c(Cl)c1.Cc1ccccc1C>>Cc1ccc(NC2=NCCN2)c(Cl)c1
+Cc1ccccc1.O=C1NCCN1.O=P(Cl)(Cl)Cl>>ClC1=NCCN1
+Target Todralazine
+Industrial:
+CCO.CCOC(=O)Cl.NNc1nncc2ccccc12>>CCOC(=O)NNc1nncc2ccccc12
+IBM RXN:
+CCN(CC)CC.CCOC(=O)Cl.ClCCl.NNc1nncc2ccccc12>>CCOC(=O)NNc1nncc2ccccc12
+Target Tamsulosin
+Industrial:
+CC#N.CCOc1ccccc1OCCN[C@H](C)C(O)c1ccc(OC)c(S(N)(=O)=O)c1.Cl.O=S(Cl)Cl>>CCOc1ccccc1OCCN[C@H](C)C(Cl)c1ccc(OC)c(S(N)(=O)=O)c1~Cl
+CCOc1ccccc1OCCN[C@H](C)C(Cl)c1ccc(OC)c(S(N)(=O)=O)c1.[H][H].[Pd]>>CCOc1ccccc1OCCN[C@H](C)Cc1ccc(OC)c(S(N)(=O)=O)c1
+IBM RXN:
+CCOc1ccccc1OCC(=O)N[C@H](C)Cc1ccc(OC)c(S(N)(=O)=O)c1.C1CCOC1>>CCOc1ccccc1OCCN[C@H](C)Cc1ccc(OC)c(S(N)(=O)=O)c1
+COc1ccc(C[C@@H](C)N)cc1S(N)(=O)=O.C1CCOC1.CCOc1ccccc1OCC(=O)O.ClCCCl.On1nnc2ccccc21>>CCOc1ccccc1OCC(=O)N[C@H](C)Cc1ccc(OC)c(S(N)(=O)=O)c1
+COc1ccc(C[C@@H](C)NC(C)=O)cc1S(N)(=O)=O.Cl>>COc1ccc(C[C@@H](C)N)cc1S(N)(=O)=O
+Target Syrosingopine
+Industrial:
+CCOC(=O)Oc1c(OC)cc(C(=O)Cl)cc1OC.COC(=O)[C@H]1[C@H]2C[C@@H]3c4[nH]c5cc(OC)ccc5c4CCN3C[C@H]2C[C@@H](O)[C@@H]1OC.c1ccncc1>>CCOC(=O)Oc1c(OC)cc(C(=O)O[C@@H]2C[C@@H]3CN4CCc5c([nH]c6cc(OC)ccc56)[C@H]4C[C@@H]3[C@H](C(=O)OC)[C@H]2OC)cc1OC
+IBM RXN:
+C(=NC1CCCCC1)=NC1CCCCC1.CCOC(=O)Oc1c(OC)cc(C(=O)O)cc1OC.CN(C)c1ccncc1.COC(=O)[C@H]1[C@H]2C[C@@H]3c4[nH]c5cc(OC)ccc5c4CCN3C[C@H]2C[C@@H](O)[C@@H]1OC.ClCCl>>CCOC(=O)Oc1c(OC)cc(C(=O)O[C@@H]2C[C@@H]3CN4CCc5c([nH]c6cc(OC)ccc56)[C@H]4C[C@@H]3[C@H](C(=O)OC)[C@H]2OC)cc1OC
+Target Ropinirole precursor
+Industrial:
+Br.CC(C)=O.CCCN(CCC)CCc1ccc(O)c2c1CC(=O)N2.CN(C)C=O.Clc1nnnn1-c1ccccc1.O.O=C([O-])[O-].[K+].[K+]>>CCCN(CCC)CCc1ccc(Oc2nnnn2-c2ccccc2)c2c1CC(=O)N2
+IBM RXN:
+CCCN(CCC)CCc1ccc(O)c2c1CC(=O)N2.CC#N.Clc1nnnn1-c1ccccc1.O=C([O-])[O-].[K+].[K+]>>CCCN(CCC)CCc1ccc(Oc2nnnn2-c2ccccc2)c2c1CC(=O)N2
+CCCN(CCC)CCc1ccc(OC)c2c1CC(=O)N2.BrB(Br)Br>>CCCN(CCC)CCc1ccc(O)c2c1CC(=O)N2
+COc1ccc(CCOS(C)(=O)=O)c2c1NC(=O)C2.CC#N.CCCNCCC>>CCCN(CCC)CCc1ccc(OC)c2c1CC(=O)N2
+COc1ccc(CCO)c2c1NC(=O)C2.C1CCOC1.CS(=O)(=O)Cl>>COc1ccc(CCOS(C)(=O)=O)c2c1NC(=O)C2
+C=Cc1ccc(OC)c2c1CC(=O)N2.B1C2CCCC1CCC2.C1CCOC1>>COc1ccc(CCO)c2c1NC(=O)C2
+C=C[Sn](CCCC)(CCCC)CCCC.COc1ccc(Br)c2c1NC(=O)C2>>C=Cc1ccc(OC)c2c1CC(=O)N2
+Target Prazosin precursor
+Industrial:
+C1CCOC1.COc1cc2nc(Cl)nc(Cl)c2cc1OC.N>>COc1cc2nc(Cl)nc(N)c2cc1OC
+C1CNCCN1.CO.COc1cc2nc(Cl)nc(N)c2cc1OC>>COc1cc2nc(N3CCNCC3)nc(N)c2cc1OC
+IBM RXN:
+COc1cc2nc(N3CCN(Cc4ccccc4)CC3)nc(N)c2cc1OC.[Pd]>>COc1cc2nc(N3CCNCC3)nc(N)c2cc1OC
+COc1cc(C#N)c(N(C)C(=S)N2CCN(Cc3ccccc3)CC2)cc1OC.NC=O.O>>COc1cc2nc(N3CCN(Cc4ccccc4)CC3)nc(N)c2cc1OC
+CNc1cc(OC)c(OC)cc1C#N.S=C(Cl)N1CCN(Cc2ccccc2)CC1.C1CCOC1.CCN(CC)CC>>COc1cc(C#N)c(N(C)C(=S)N2CCN(Cc3ccccc3)CC2)cc1OC
+CN.COc1cc(F)c(C#N)cc1OC.CS(C)=O>>CNc1cc(OC)c(OC)cc1C#N
+ClC(Cl)Cl.S=C(Cl)Cl.c1ccc(CN2CCNCC2)cc1>>S=C(Cl)N1CCN(Cc2ccccc2)CC1
+Target Phenactropinium chloride
+Industrial:
+CCC(C)=O.CN1[C@H]2CC[C@@H]1CC(OC(=O)C(O)c1ccccc1)C2.O=C(CCl)c1ccccc1>>C[N+]1(CC(=O)c2ccccc2)[C@H]2CC[C@@H]1CC(OC(=O)C(O)c1ccccc1)C2~[Cl-]
+IBM RXN:
+O=C(CCl)c1ccccc1.CC#N.CN1[C@H]2CC[C@@H]1CC(OC(=O)C(O)c1ccccc1)C2>>C[N+]1(CC(=O)c2ccccc2)[C@H]2CC[C@@H]1CC(OC(=O)C(O)c1ccccc1)C2~[Cl-]
+Cl.Cl[Al](Cl)Cl.O=C(Cl)CCl.c1ccccc1>>O=C(CCl)c1ccccc1
+Target Pargyline
+Industrial:
+C#CCBr.CCO.CNCc1ccccc1.O=C([O-])[O-].[Na+].[Na+]>>C#CCN(C)Cc1ccccc1
+IBM RXN:
+C#CCBr.CNCc1ccccc1>>C#CCN(C)Cc1ccccc1
+Target Enalapril
+Industrial:
+CCO.CCOC(=O)C(=O)CCc1ccccc1.C[C@H](N)C(=O)N1CCC[C@H]1C(=O)O.[H][H].[Ni]>>CCOC(=O)C(CCc1ccccc1)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)O
+IBM RXN:
+CCO.CCOC(=O)C(=O)CCc1ccccc1.C[C@H](N)C(=O)N1CCC[C@H]1C(=O)O.O.[BH3-]C#N.[Na+].[BH3-]C#N.[Na+]>>CCOC(=O)C(CCc1ccccc1)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)O
+Target Irbesartan precursor
+Industrial:
+CC(=O)O.CCCCC(=N)OCC.CCOC(=O)C1(N)CCCC1.Cc1ccc(C)cc1.Cl>>CCCCC1=NC2(CCCC2)C(=O)N1
+IBM RXN:
+CCCCC(=N)OCC.CCO.CCOC(=O)C1(N)CCCC1.CC[O-].[Na+].CC[O-].[Na+]>>CCCCC1=NC2(CCCC2)C(=O)N1
+Target Mebutamate precursor
+Industrial:
+CCOC(=O)C(C)(C(=O)OCC)C(C)CC.CCOCC.[Al+3].[H-].[H-].[H-].[H-].[Li+]>>CCC(C)C(C)(CO)CO
+IBM RXN:
+CCOC(=O)C(C)(C(=O)OCC)C(C)CC.CCOCC.[AlH4-].[Li+]>>CCC(C)C(C)(CO)CO
+CCOC(=O)C(C(=O)OCC)C(C)CC.CI>>CCOC(=O)C(C)(C(=O)OCC)C(C)CC
+Target Lofexidine
+Industrial:
+CC(C#N)Oc1c(Cl)cccc1Cl.CCO.Cl.ClC(Cl)Cl>>CCOC(=N)C(C)Oc1c(Cl)cccc1Cl~Cl
+CCO.CCOC(=N)C(C)Oc1c(Cl)cccc1Cl.NCCN>>CC(Oc1c(Cl)cccc1Cl)C1=NCCN1
+IBM RXN:
+CC(Oc1c(Cl)cccc1Cl)C(=O)O.NCCN.O=P(Cl)(Cl)Cl.O[Na]>>CC(Oc1c(Cl)cccc1Cl)C1=NCCN1
+Target Aceperone
+Industrial:
+CC(=O)NCC1(c2ccccc2)CCN(Cc2ccccc2)CC1.CC(C)=O.O=C(CCCBr)c1ccc(F)cc1.O=C([O-])O.[Na+]>>CC(=O)NCC1(c2ccccc2)CCN(CCCC(=O)c2ccc(F)cc2)CC1
+IBM RXN:
+CC(=O)NCC1(c2ccccc2)CCNCC1.CC#N.O=C(CCCCl)c1ccc(F)cc1.O=C([O-])[O-].[K+].[K+]>>CC(=O)NCC1(c2ccccc2)CCN(CCCC(=O)c2ccc(F)cc2)CC1
+CC(=O)NCC1(c2ccccc2)CCN(Cc2ccccc2)CC1.CCO.[OH-].[OH-].[Pd+2]>>CC(=O)NCC1(c2ccccc2)CCNCC1
+CC(=O)Cl.CCN(CC)CC.ClCCl.NCC1(c2ccccc2)CCN(Cc2ccccc2)CC1>>CC(=O)NCC1(c2ccccc2)CCN(Cc2ccccc2)CC1
+Target Aganodine precursor
+Industrial:
+CC(C)(C)OC(=O)NN.CN(C)C=O.O=C1OC(=O)c2c(Cl)ccc(Cl)c21>>CC(C)(C)OC(=O)NN1C(=O)c2c(Cl)ccc(Cl)c2C1=O
+C1CCOC1.CC(C)(C)OC(=O)NN1C(=O)c2c(Cl)ccc(Cl)c2C1=O.[Al+3].[H-].[H-].[H-].[H-].[Li+]>>CC(C)(C)OC(=O)NN1Cc2c(Cl)ccc(Cl)c2C1
+CC(C)(C)OC(=O)NN1Cc2c(Cl)ccc(Cl)c2C1.Cl.O>>Cl~NN1Cc2c(Cl)ccc(Cl)c2C1
+IBM RXN:
+CC(C)(C)OC(=O)NN1Cc2c(Cl)ccc(Cl)c2C1.C1COCCO1.Cl>>Cl~NN1Cc2c(Cl)ccc(Cl)c2C1
+NN1Cc2c(Cl)ccc(Cl)c2C1.CC(C)(C)OC(=O)OC(=O)OC(C)(C)C.ClCCl>>CC(C)(C)OC(=O)NN1Cc2c(Cl)ccc(Cl)c2C1
+O=NN1Cc2c(Cl)ccc(Cl)c2C1.[Al+3].[H-].[H-].[H-].[H-].[Li+]>>NN1Cc2c(Cl)ccc(Cl)c2C1
+Clc1ccc(Cl)c2c1CNC2.O=N[O-].[Na+]>>O=NN1Cc2c(Cl)ccc(Cl)c2C1
+O=C1NC(=O)c2c(Cl)ccc(Cl)c21.B.C1CCOC1>>Clc1ccc(Cl)c2c1CNC2
+NC=O.O.O=C1OC(=O)c2c(Cl)ccc(Cl)c21>>O=C1NC(=O)c2c(Cl)ccc(Cl)c21
+Target Alacepril
+Industrial:
+C1CCOC1.CC(=O)SC[C@@H](C)C(=O)N1CCC[C@H]1C(=O)O.CC(C)(C)OC(=O)[C@@H](N)Cc1ccccc1.CN1CCOCC1.Cl>>CC(=O)SC[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)OC(C)(C)C
+CC(=O)SC[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)OC(C)(C)C.COc1ccccc1.O=C(O)C(F)(F)F>>CC(=O)SC[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)O
+IBM RXN:
+CC(=O)SC[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)OCc1ccccc1.CCOC(C)=O.CO.[Pd]>>CC(=O)SC[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)O
+CC(=O)SC[C@@H](C)C(=O)N1CCC[C@H]1C(=O)O.CCN(C(C)C)C(C)C.CN(C)C(On1nnc2cccnc21)=[N+](C)C.F[P-](F)(F)(F)(F)F.ClCCl.Cl.N[C@@H](Cc1ccccc1)C(=O)OCc1ccccc1.CN(C)C(On1nnc2cccnc21)=[N+](C)C.F[P-](F)(F)(F)(F)F.Cl.N[C@@H](Cc1ccccc1)C(=O)OCc1ccccc1>>CC(=O)SC[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)OCc1ccccc1
+Target Amosulalol hydrochloride
+Industrial:
+CCC(C)=O.COc1ccccc1OCCNCc1ccccc1.Cc1ccc(C(=O)CBr)cc1S(N)(=O)=O>>COc1ccccc1OCCN(CC(=O)c1ccc(C)c(S(N)(=O)=O)c1)Cc1ccccc1
+CCO.COc1ccccc1OCCN(CC(=O)c1ccc(C)c(S(N)(=O)=O)c1)Cc1ccccc1.[BH4-].[Na+]>>COc1ccccc1OCCN(Cc1ccccc1)CC(O)c1ccc(C)c(S(N)(=O)=O)c1
+CCO.CO.COc1ccccc1OCCN(Cc1ccccc1)CC(O)c1ccc(C)c(S(N)(=O)=O)c1.Cl.[H][H].[Pd]>>COc1ccccc1OCCNCC(O)c1ccc(C)c(S(N)(=O)=O)c1~Cl
+IBM RXN:
+COc1ccccc1OCCNCC(O)c1ccc(C)c(S(N)(=O)=O)c1.CCOC(C)=O.Cl>>COc1ccccc1OCCNCC(O)c1ccc(C)c(S(N)(=O)=O)c1~Cl
+Cc1ccc(C2CO2)cc1S(N)(=O)=O.COc1ccccc1OCCN>>COc1ccccc1OCCNCC(O)c1ccc(C)c(S(N)(=O)=O)c1
+C=Cc1ccc(C)c(S(N)(=O)=O)c1.ClCCl.O=C(OO)c1cccc(Cl)c1.[Na+].[OH-]>>Cc1ccc(C2CO2)cc1S(N)(=O)=O
+C=C[Sn](CCCC)(CCCC)CCCC.Cc1ccc(Br)cc1S(N)(=O)=O>>C=Cc1ccc(C)c(S(N)(=O)=O)c1
+Target Atipamezole precursor
+Industrial:
+CC(=O)C1Cc2ccccc2C1=O.CCBr.O=C([O-])[O-].[Na+].[Na+]>>CCC1(C(C)=O)Cc2ccccc2C1=O
+IBM RXN:
+CC(=O)C1Cc2ccccc2C1=O.CCI.[NaH]>>CCC1(C(C)=O)Cc2ccccc2C1=O
+Target Benzthiazide precursor
+Industrial:
+CN(C)C=O.Nc1cc(Cl)c(S(N)(=O)=O)cc1S(N)(=O)=O.O.O=CCCl>>NS(=O)(=O)c1cc2c(cc1Cl)NC(CCl)NS2(=O)=O
+CN(C)C=O.NS(=O)(=O)c1cc2c(cc1Cl)NC(CCl)NS2(=O)=O.SCc1ccccc1.[Na+].[OH-]>>NS(=O)(=O)c1cc2c(cc1Cl)NC(CSCc1ccccc1)NS2(=O)=O
+IBM RXN:
+CO.NS(=O)(=O)c1cc2c(cc1Cl)N=C(CSCc1ccccc1)NS2(=O)=O.[BH4-].[Na+].[BH4-].[Na+]>>NS(=O)(=O)c1cc2c(cc1Cl)NC(CSCc1ccccc1)NS2(=O)=O
+Target Betanidine precursor
+Industrial:
+C[S+]=C(N)N.C[S+]=C(N)N.NCc1ccccc1Br.O.O=S(=O)([O-])[O-]>>N=C(N)NCc1ccccc1Br
+IBM RXN:
+Cl.NCc1ccccc1Br.N=C(N)n1cccn1.O[Na].Cl.NCc1ccccc1Br>>N=C(N)NCc1ccccc1Br
+Target Buthiazide
+Industrial:
+CC(C)CC=O.CCOC(C)=O.COCCOCCOC.Cl.Nc1cc(Cl)c(S(N)(=O)=O)cc1S(N)(=O)=O>>CC(C)CC1Nc2cc(Cl)c(S(N)(=O)=O)cc2S(=O)(=O)N1
+IBM RXN:
+CC(C)CC=O.CCO.Nc1cc(Cl)c(S(N)(=O)=O)cc1S(N)(=O)=O.O>>CC(C)CC1Nc2cc(Cl)c(S(N)(=O)=O)cc2S(=O)(=O)N1
+Target Chlorisondamine precursor
+Industrial:
+CN(C)CCN.O=C1OC(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c21>>CN(C)CCN1C(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c2C1=O
+CCOCC.CN(C)CCN1C(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c2C1=O.[Al+3].[H-].[H-].[H-].[H-].[Li+]>>CN(C)CCN1Cc2c(Cl)c(Cl)c(Cl)c(Cl)c2C1
+IBM RXN:
+CN(C)CC(=O)N1Cc2c(Cl)c(Cl)c(Cl)c(Cl)c2C1.C1CCOC1>>CN(C)CCN1Cc2c(Cl)c(Cl)c(Cl)c(Cl)c2C1
+Clc1c(Cl)c(Cl)c2c(c1Cl)CNC2.CCN(CC)CC.CN(C)CC(=O)Cl.ClCCl>>CN(C)CC(=O)N1Cc2c(Cl)c(Cl)c(Cl)c(Cl)c2C1
+B.C1CCOC1.O=C1NC(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c21>>Clc1c(Cl)c(Cl)c2c(c1Cl)CNC2
+Target Losartan precursor
+Industrial:
+CO.COC(=O)c1ccccc1-c1ccc(C)cc1.[K+].[OH-]>>Cc1ccc(-c2ccccc2C(=O)O)cc1
+Cc1ccc(-c2ccccc2C(=O)O)cc1.O=S(Cl)Cl>>Cc1ccc(-c2ccccc2C(=O)Cl)cc1
+IBM RXN:
+Cc1ccc(-c2ccccc2C(=O)O)cc1.ClCCl.O=C(Cl)C(=O)Cl>>Cc1ccc(-c2ccccc2C(=O)Cl)cc1
+CO.COC(=O)c1ccccc1-c1ccc(C)cc1.O[Na]>>Cc1ccc(-c2ccccc2C(=O)O)cc1
+Target Acetaminosalol
+Industrial:
+CC(=O)Nc1ccc(O)cc1.CC(=O)Oc1ccccc1C(=O)Cl.O.[Na+].[OH-]>>CC(=O)Nc1ccc(OC(=O)c2ccccc2O)cc1
+IBM RXN:
+C(=NC1CCCCC1)=NC1CCCCC1.CC(=O)Nc1ccc(O)cc1.CN(C)c1ccncc1.ClCCl.O=C(O)c1ccccc1O>>CC(=O)Nc1ccc(OC(=O)c2ccccc2O)cc1
+Target Alfentanil
+Industrial:
+CC(=O)CC(C)C.CCn1nn[nH]c1=O.ClCCBr.O=C([O-])[O-].[I-].[K+].[Na+].[Na+]>>CCn1nnn(CCCl)c1=O
+CC(=O)CC(C)C.CCC(=O)N(c1ccccc1)C1(COC)CCNCC1.CCn1nnn(CCCl)c1=O.O=C([O-])[O-].[I-].[K+].[Na+].[Na+]>>CCC(=O)N(c1ccccc1)C1(COC)CCN(CCn2nnn(CC)c2=O)CC1
+IBM RXN:
+CCC(=O)N(c1ccccc1)C1(COC)CCNCC1.CC#N.CCn1nnn(CCBr)c1=O.O=C([O-])[O-].[K+].[K+]>>CCC(=O)N(c1ccccc1)C1(COC)CCN(CCn2nnn(CC)c2=O)CC1
+CCC(=O)N(c1ccccc1)C1(COC)CCN(Cc2ccccc2)CC1.CCO.O=C[O-].[NH4+].[Pd]>>CCC(=O)N(c1ccccc1)C1(COC)CCNCC1
+CCC(=O)OC(=O)CC.COCC1(Nc2ccccc2)CCN(Cc2ccccc2)CC1.c1ccncc1>>CCC(=O)N(c1ccccc1)C1(COC)CCN(Cc2ccccc2)CC1
+Target Alimadol
+Industrial:
+COC(CCN)(c1ccccc1)c1ccccc1.O=C(OC(=O)C(F)(F)F)C(F)(F)F.c1ccccc1.c1ccncc1>>COC(CCNC(=O)C(F)(F)F)(c1ccccc1)c1ccccc1
+C=CCBr.CN(C)P(=O)(N(C)C)N(C)C.COC(CCNC(=O)C(F)(F)F)(c1ccccc1)c1ccccc1.[H-].[Na+]>>C=CCN(CCC(OC)(c1ccccc1)c1ccccc1)C(=O)C(F)(F)F
+C=CCN(CCC(OC)(c1ccccc1)c1ccccc1)C(=O)C(F)(F)F.CCO.[Na+].[OH-]>>C=CCNCCC(OC)(c1ccccc1)c1ccccc1
+IBM RXN:
+COC(CCBr)(c1ccccc1)c1ccccc1.C1CCOC1.C=CCN>>C=CCNCCC(OC)(c1ccccc1)c1ccccc1
+OC(CCBr)(c1ccccc1)c1ccccc1.C1CCOC1.CI.O.[NaH]>>COC(CCBr)(c1ccccc1)c1ccccc1
+OCCC(O)(c1ccccc1)c1ccccc1.BrC(Br)(Br)Br.ClCCl.c1ccc(P(c2ccccc2)c2ccccc2)cc1>>OC(CCBr)(c1ccccc1)c1ccccc1
+CCOC(=O)CC(O)(c1ccccc1)c1ccccc1.CO.[BH4-].[Na+].[BH4-].[Na+]>>OCCC(O)(c1ccccc1)c1ccccc1
+Target Alminoprofen
+Industrial:
+C=C(C(=O)OC)c1ccc([N+](=O)[O-])cc1.CCO.[H][H].[Pd]>>COC(=O)C(C)c1ccc(N)cc1
+C=C(C)CCl.CC(C)O.COC(=O)C(C)c1ccc(N)cc1.c1ccncc1>>C=C(C)CNc1ccc(C(C)C(=O)OC)cc1
+C=C(C)CNc1ccc(C(C)C(=O)OC)cc1.CO.[Na+].[OH-]>>C=C(C)CNc1ccc(C(C)C(=O)O)cc1
+IBM RXN:
+C=C(C)CN(C(=O)OC(C)(C)C)c1ccc(C(C)C(=O)O)cc1.ClCCl.O=C(O)C(F)(F)F>>C=C(C)CNc1ccc(C(C)C(=O)O)cc1
+C=C(C)CN(C(=O)OC(C)(C)C)c1ccc(C(C)C#N)cc1.CCO.O.O[K]>>C=C(C)CN(C(=O)OC(C)(C)C)c1ccc(C(C)C(=O)O)cc1
+C=C(C)CNc1ccc(C(C)C#N)cc1.CC(C)(C)OC(=O)OC(=O)OC(C)(C)C>>C=C(C)CN(C(=O)OC(C)(C)C)c1ccc(C(C)C#N)cc1
+C=C(C)CCl.CC(C#N)c1ccc(N)cc1.CN(C)P(=O)(N(C)C)N(C)C.O>>C=C(C)CNc1ccc(C(C)C#N)cc1
+Target Alphaprodine
+Industrial:
+Brc1ccccc1.CCOCC.[Li]>>[Li]c1ccccc1
+CC1CN(C)CCC1=O.CCOCC.[Li]c1ccccc1>>CC1CN(C)CCC1(O)c1ccccc1
+CC1CN(C)CCC1(O)c1ccccc1.CCC(=O)OC(=O)CC.O.O=S(=O)(O)O>>CCC(=O)OC1(c2ccccc2)CCN(C)CC1C
+IBM RXN:
+CC1CN(C)CCC1(O)c1ccccc1.CCC(=O)OC(=O)CC.c1ccncc1>>CCC(=O)OC1(c2ccccc2)CCN(C)CC1C
+Br[Mg]c1ccccc1.CC1CN(C)CCC1=O>>CC1CN(C)CCC1(O)c1ccccc1
+Target Anileridine
+Industrial:
+CCO.CCOC(=O)C1(c2ccccc2)CCNCC1.Cl.Nc1ccc(CCCl)cc1.O=C(O)O.O=C([O-])O.[Na+]>>CCOC(=O)C1(c2ccccc2)CCN(CCc2ccc(N)cc2)CC1
+IBM RXN:
+CCOC(=O)C1(c2ccccc2)CCN(CCc2ccc([N+](=O)[O-])cc2)CC1.C1CCOC1.[Pd]>>CCOC(=O)C1(c2ccccc2)CCN(CCc2ccc(N)cc2)CC1
+CCOC(=O)C1(c2ccccc2)CCNCC1.C=Cc1ccc([N+](=O)[O-])cc1.CC#N.O=C([O-])[O-].[K+].[K+]>>CCOC(=O)C1(c2ccccc2)CCN(CCc2ccc([N+](=O)[O-])cc2)CC1
+CCOC(=O)C1(c2ccccc2)CCN(C(=O)OC(C)(C)C)CC1.O=C(O)C(F)(F)F>>CCOC(=O)C1(c2ccccc2)CCNCC1
+C1CCOC1.CCOC(=O)C1CCN(C(=O)OC(C)(C)C)CC1.C[Si](C)(C)[N-][Si](C)(C)C.[Li+].Ic1ccccc1.C[Si](C)(C)[N-][Si](C)(C)C.[Li+]>>CCOC(=O)C1(c2ccccc2)CCN(C(=O)OC(C)(C)C)CC1
+Target Anirolac
+Industrial:
+CC(C)OC(=O)C1CCn2cccc21.COc1ccc(C(=O)N(C)C)cc1.ClCCCl.O=P(Cl)(Cl)Cl>>COc1ccc(C(=O)c2ccc3n2CCC3C(=O)OC(C)C)cc1
+CO.COc1ccc(C(=O)c2ccc3n2CCC3C(=O)OC(C)C)cc1.O.O=C([O-])[O-].[K+].[K+]>>COc1ccc(C(=O)c2ccc3n2CCC3C(=O)O)cc1
+IBM RXN:
+O=C(O)C1CCn2cccc21.COc1ccc(C(=O)Cl)cc1>>COc1ccc(C(=O)c2ccc3n2CCC3C(=O)O)cc1
+N#CC1CCn2cccc21.CC(=O)O.O.O=S(=O)(O)O>>O=C(O)C1CCn2cccc21
+CS(=O)(=O)OC1CCn2cccc21.CN(C)C=O.O.[C-]#N.[K+]>>N#CC1CCn2cccc21
+OC1CCn2cccc21.CS(=O)(=O)Cl.ClCCl.O>>CS(=O)(=O)OC1CCn2cccc21
+CO.O=C1CCn2cccc21.[BH4-].[Na+].[Cl-].[NH4+].[BH4-].[Na+].[Cl-].[NH4+]>>OC1CCn2cccc21
+Target Antrafenine
+Industrial:
+C=CCOC(=O)c1ccccc1Nc1ccnc2cc(C(F)(F)F)ccc12.Cc1ccccc1.OCCN1CCN(c2cccc(C(F)(F)F)c2)CC1.[Na]>>O=C(OCCN1CCN(c2cccc(C(F)(F)F)c2)CC1)c1ccccc1Nc1ccnc2cc(C(F)(F)F)ccc12
+IBM RXN:
+COC(=O)c1ccccc1Nc1ccnc2cc(C(F)(F)F)ccc12.OCCN1CCN(c2cccc(C(F)(F)F)c2)CC1.Cc1ccccc1.[NaH]>>O=C(OCCN1CCN(c2cccc(C(F)(F)F)c2)CC1)c1ccccc1Nc1ccnc2cc(C(F)(F)F)ccc12
+CCCCO.COC(=O)c1ccccc1N.FC(F)(F)c1ccc2c(Cl)ccnc2c1.O>>COC(=O)c1ccccc1Nc1ccnc2cc(C(F)(F)F)ccc12
+FC(F)(F)c1cccc(N2CCNCC2)c1.C1CO1.CCO>>OCCN1CCN(c2cccc(C(F)(F)F)c2)CC1
+CC(C)(C)OC(=O)N1CCN(c2cccc(C(F)(F)F)c2)CC1.ClCCl.O=C(O)C(F)(F)F>>FC(F)(F)c1cccc(N2CCNCC2)c1
+Target Araprofen precursor
+Industrial:
+CC(C(=O)O)c1ccc(N)cc1.CCCCCO.O=C([O-])[O-].O=C([O-])c1ccccc1Cl.[Cu].[K+].[K+].[K+]>>COC(=O)c1ccccc1Nc1ccc(C(C)C(=O)O)cc1
+IBM RXN:
+CC(=O)[O-].CC(=O)[O-].[Cu+2].CC(C(=O)O)c1ccc(N)cc1.COC(=O)c1ccccc1B(O)O.CC(=O)[O-].CC(=O)[O-].[Cu+2]>>COC(=O)c1ccccc1Nc1ccc(C(C)C(=O)O)cc1
+Target Aspirin
+Industrial:
+CC(=O)OC(C)=O.Cc1ccccc1.O=C(O)c1ccccc1O>>CC(=O)Oc1ccccc1C(=O)O
+IBM RXN:
+CC(=O)OC(C)=O.O.O=C(O)c1ccccc1O>>CC(=O)Oc1ccccc1C(=O)O
+Target Bezitramide
+Industrial:
+CC(=O)CC(C)C.N#CC(CCBr)(c1ccccc1)c1ccccc1.O=C([O-])[O-].O=c1[nH]c2ccccc2n1C1CCNCC1.[I-].[K+].[Na+].[Na+]>>N#CC(CCN1CCC(n2c(=O)[nH]c3ccccc32)CC1)(c1ccccc1)c1ccccc1
+CCC(=O)OC(=O)CC.N#CC(CCN1CCC(n2c(=O)[nH]c3ccccc32)CC1)(c1ccccc1)c1ccccc1.c1ccccc1>>CCC(=O)n1c(=O)n(C2CCN(CCC(C#N)(c3ccccc3)c3ccccc3)CC2)c2ccccc21
+IBM RXN:
+N#CC(CCN1CCC(n2c(=O)[nH]c3ccccc32)CC1)(c1ccccc1)c1ccccc1.C1CCOC1.CCC(=O)Cl.CCN(CC)CC>>CCC(=O)n1c(=O)n(C2CCN(CCC(C#N)(c3ccccc3)c3ccccc3)CC2)c2ccccc21
+N#CC(CCBr)(c1ccccc1)c1ccccc1.O=c1[nH]c2ccccc2n1C1CCNCC1>>N#CC(CCN1CCC(n2c(=O)[nH]c3ccccc32)CC1)(c1ccccc1)c1ccccc1
+Target Carfecillin precursor
+Industrial:
+CCOCC.CN(C)C=O.O=C(O)C(C(=O)O)c1ccccc1.O=S(Cl)Cl.Oc1ccccc1>>O=C(Oc1ccccc1)C(C(=O)Oc1ccccc1)c1ccccc1
+Cl.O.O=C(Oc1ccccc1)C(C(=O)Oc1ccccc1)c1ccccc1>>O=C(O)C(C(=O)Oc1ccccc1)c1ccccc1
+IBM RXN:
+COC(=O)C(C(=O)Oc1ccccc1)c1ccccc1.CO.O[Na]>>O=C(O)C(C(=O)Oc1ccccc1)c1ccccc1
+COC(=O)Cc1ccccc1.C1CCOC1.CC(C)NC(C)C.O=C(Cl)Oc1ccccc1.[Li]CCCC>>COC(=O)C(C(=O)Oc1ccccc1)c1ccccc1
+CO.ClCCl.O=C(O)Cc1ccccc1.O=S(Cl)Cl>>COC(=O)Cc1ccccc1
+Target Cefamandole nafate
+Industrial:
+O=C(O)[C@H](O)c1ccccc1.O=CO>>O=CO[C@@H](C(=O)O)c1ccccc1
+O=CO[C@@H](C(=O)O)c1ccccc1.O=S(Cl)Cl>>O=CO[C@@H](C(=O)Cl)c1ccccc1
+CC(=O)N[Si](C)(C)C.CCOC(C)=O.Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)[C@@H](N)[C@H]2SC1.O=CO[C@@H](C(=O)Cl)c1ccccc1>>Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](OC=O)c3ccccc3)[C@H]2SC1
+IBM RXN:
+O=CO[C@@H](C(=O)Cl)c1ccccc1.ClCCl.Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)[C@@H](N)[C@H]2SC1>>Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](OC=O)c3ccccc3)[C@H]2SC1
+O=CO[C@@H](C(=O)O)c1ccccc1.CN(C)C=O.ClCCl.O=S(Cl)Cl>>O=CO[C@@H](C(=O)Cl)c1ccccc1
+CC(=O)OC(C)=O.O=C(O)[C@H](O)c1ccccc1.O=CO>>O=CO[C@@H](C(=O)O)c1ccccc1
+Target Cefaze
+Industrial:
+C(=NC1CCCCC1)=NC1CCCCC1.CC(=O)OCC1=C(C(=O)OC(C)(C)C)N2C(=O)[C@@H](N)[C@H]2SC1.CN(C)C=O.ClCCl.O=C(O)Cn1cc(Cl)c(=O)c(Cl)c1>>CC(=O)OCC1=C(C(=O)OC(C)(C)C)N2C(=O)[C@@H](NC(=O)Cn3cc(Cl)c(=O)c(Cl)c3)[C@H]2SC1
+CC(=O)OCC1=C(C(=O)OC(C)(C)C)N2C(=O)[C@@H](NC(=O)Cn3cc(Cl)c(=O)c(Cl)c3)[C@H]2SC1.O=C(O)C(F)(F)F>>CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)Cn3cc(Cl)c(=O)c(Cl)c3)[C@H]2SC1
+CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)Cn3cc(Cl)c(=O)c(Cl)c3)[C@H]2SC1.CC(C)=O.Cc1nnc(S)s1.O.O=C([O-])O.[Na+]>>Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@@H](NC(=O)Cn4cc(Cl)c(=O)c(Cl)c4)[C@H]3SC2)s1
+IBM RXN:
+Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@@H](N)[C@H]3SC2)s1.O=C(O)Cn1cc(Cl)c(=O)c(Cl)c1>>Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@@H](NC(=O)Cn4cc(Cl)c(=O)c(Cl)c4)[C@H]3SC2)s1
+Target Aspoxicillin precursor
+Industrial:
+C1CCOC1.CNC(=O)C[C@@H](N)C(=O)O.O.O=C(Cl)OCc1ccccc1.O=C([O-])[O-].[K+].[K+]>>CNC(=O)C[C@@H](NC(=O)OCc1ccccc1)C(=O)O
+IBM RXN:
+CNC(=O)C[C@@H](N)C(=O)O.O=C(Cl)OCc1ccccc1>>CNC(=O)C[C@@H](NC(=O)OCc1ccccc1)C(=O)O
+Target Atrimustine precursor
+Industrial:
+C1CCOC1.CC12CCC3c4ccc(O)cc4CCC3C1CC[C@@H]2O.ClC(Cl)(Cl)Cl.O=C(Br)CBr.O=C(Br)CBr.c1ccncc1>>CC12CCC3c4ccc(OC(=O)CBr)cc4CCC3C1CC[C@@H]2OC(=O)CBr
+IBM RXN:
+CC12CCC3c4ccc(O)cc4CCC3C1CC[C@@H]2O.O=C(Cl)CBr.c1ccncc1>>CC12CCC3c4ccc(OC(=O)CBr)cc4CCC3C1CC[C@@H]2OC(=O)CBr
+CC12CCC3c4ccc(OCc5ccccc5)cc4CCC3C1CC[C@@H]2O.[H][H].[Pd]>>CC12CCC3c4ccc(O)cc4CCC3C1CC[C@@H]2O
+CC12CCC3c4ccc(OCc5ccccc5)cc4CCC3C1CCC2=O.B.C1CCOC1>>CC12CCC3c4ccc(OCc5ccccc5)cc4CCC3C1CC[C@@H]2O
+BrCc1ccccc1.CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O>>CC12CCC3c4ccc(OCc5ccccc5)cc4CCC3C1CCC2=O
+Target Mezlocillin precursor
+Industrial:
+CS(=O)(=O)Cl.O=C1NCCN1>>CS(=O)(=O)N1CCNC1=O
+CS(=O)(=O)N1CCNC1=O.O=C(Cl)Cl>>CS(=O)(=O)N1CCN(C(=O)Cl)C1=O
+IBM RXN:
+CS(=O)(=O)N1CCNC1=O.CCN(C(C)C)C(C)C.ClCCl.O=C(Cl)Cl>>CS(=O)(=O)N1CCN(C(=O)Cl)C1=O
+CS(=O)(=O)Cl.O=C1NCCN1>>CS(=O)(=O)N1CCNC1=O
+Target Tazobactam precursor
+Industrial:
+C[C@@]1(CCl)S[C@@H]2CC(=O)N2[C@H]1C(=O)OC(c1ccccc1)c1ccccc1.O.[N-]=[N+]=[N-].[Na+]>>C[C@@]1(CN=[N+]=[N-])S[C@@H]2CC(=O)N2[C@H]1C(=O)OC(c1ccccc1)c1ccccc1
+CC(=O)O.C[C@@]1(CN=[N+]=[N-])S[C@@H]2CC(=O)N2[C@H]1C(=O)OC(c1ccccc1)c1ccccc1.O.O=[Mn](=O)(=O)[O-].[K+]>>C[C@@]1(CN=[N+]=[N-])[C@H](C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)C[C@H]2S1(=O)=O
+IBM RXN:
+C[C@@]1(COS(C)(=O)=O)[C@H](C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)C[C@H]2S1(=O)=O.CN(C)C=O.O.[N-]=[N+]=[N-].[Na+]>>C[C@@]1(CN=[N+]=[N-])[C@H](C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)C[C@H]2S1(=O)=O
+C[C@@]1(CO)[C@H](C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)C[C@H]2S1(=O)=O.CS(=O)(=O)Cl.ClCCl>>C[C@@]1(COS(C)(=O)=O)[C@H](C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)C[C@H]2S1(=O)=O
+C[C@@]1(CO)[C@H](C(=O)O)N2C(=O)C[C@H]2S1(=O)=O.CN(C)C=O.[N-]=[N+]=C(c1ccccc1)c1ccccc1>>C[C@@]1(CO)[C@H](C(=O)OC(c2ccccc2)c2ccccc2)N2C(=O)C[C@H]2S1(=O)=O
+C[C@@]1(CO)[C@H](C(=O)O)N2C(=O)C(Br)(Br)[C@H]2S1(=O)=O.CC(=O)O.O.[Zn]>>C[C@@]1(CO)[C@H](C(=O)O)N2C(=O)C[C@H]2S1(=O)=O
+C[C@@]1(COCc2ccccc2)[C@H](C(=O)OCc2ccccc2)N2C(=O)C(Br)(Br)[C@H]2S1(=O)=O.ClB(Cl)Cl.ClCCl>>C[C@@]1(CO)[C@H](C(=O)O)N2C(=O)C(Br)(Br)[C@H]2S1(=O)=O
+C[C@@]1(CO)[C@H](C(=O)OCc2ccccc2)N2C(=O)C(Br)(Br)[C@H]2S1(=O)=O.BrCc1ccccc1.C1CCOC1.[H-].[Na+]>>C[C@@]1(COCc2ccccc2)[C@H](C(=O)OCc2ccccc2)N2C(=O)C(Br)(Br)[C@H]2S1(=O)=O
+C[C@@]1(CO)S[C@H]2N(C(=O)C2(Br)Br)[C@H]1C(=O)OCc1ccccc1.O=C(OO)c1cccc(Cl)c1>>C[C@@]1(CO)[C@H](C(=O)OCc2ccccc2)N2C(=O)C(Br)(Br)[C@H]2S1(=O)=O
+C[C@@]1(CO)S[C@H]2N(C(=O)C2(Br)Br)[C@H]1C(=O)O.BrCc1ccccc1.CN(C)C=O.O=C([O-])[O-].[K+].[K+]>>C[C@@]1(CO)S[C@H]2N(C(=O)C2(Br)Br)[C@H]1C(=O)OCc1ccccc1
+C[C@@]1(CO)S[C@H]2N(C(=O)C2(Br)Br)[C@H]1C(=O)OC(c1ccccc1)c1ccccc1.Cc1ccccc1.O=C(O)C(F)(F)F>>C[C@@]1(CO)S[C@H]2N(C(=O)C2(Br)Br)[C@H]1C(=O)O
+C[C@@]1(COC(=O)c2ccccc2)S[C@H]2N(C(=O)C2(Br)Br)[C@H]1C(=O)OC(c1ccccc1)c1ccccc1.CO.O[Na]>>C[C@@]1(CO)S[C@H]2N(C(=O)C2(Br)Br)[C@H]1C(=O)OC(c1ccccc1)c1ccccc1
+Target Doxycycline
+Industrial:
+C=C1c2cccc(O)c2C(O)=C2C(=O)[C@]3(O)C(O)=C(C(N)=O)C(=O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@H]12.CO.[H][H].[Rh]>>CC1c2cccc(O)c2C(O)=C2C(=O)[C@]3(O)C(O)=C(C(N)=O)C(=O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@@H]21
+IBM RXN:
+CC1c2cccc(O[Si](C)(C)C(C)(C)C)c2C(O)=C2C(=O)[C@]3(O[Si](C)(C)C(C)(C)C)C(O)=C(C(N)=O)C(=O)[C@@H](N(C)C)[C@@H]3[C@@H](O[Si](C)(C)C(C)(C)C)[C@@H]21.C1CCOC1.CCCC[N+](CCCC)(CCCC)CCCC.[F-]>>CC1c2cccc(O)c2C(O)=C2C(=O)[C@]3(O)C(O)=C(C(N)=O)C(=O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@@H]21
+CC1c2cccc(O[Si](C)(C)C(C)(C)C)c2C(O)=C2C(=O)[C@]3(O[Si](C)(C)C(C)(C)C)C(O)=C(C(N)=O)C(=O)[C@@H](N(C)C)[C@@H]3[C@@H](O[Si](C)(C)C(C)(C)C)[C@@H]21>>CC1c2cccc(O[Si](C)(C)C(C)(C)C)c2C(O)=C2C(=O)[C@]3(O[Si](C)(C)C(C)(C)C)C(O)=C(C(N)=O)C(=O)[C@@H](N(C)C)[C@@H]3[C@@H](O[Si](C)(C)C(C)(C)C)[C@@H]21
+Target Bexarotene precursor
+Industrial:
+COC(=O)c1ccc(C(=O)Cl)cc1.Cc1ccc2c(c1)C(C)(C)CCC2(C)C.ClCCCl.[Al+3].[Cl-].[Cl-].[Cl-]>>COC(=O)c1ccc(C(=O)c2cc3c(cc2C)C(C)(C)CCC3(C)C)cc1
+IBM RXN:
+COC(=O)c1ccc(C(=O)Cl)cc1.Cc1ccc2c(c1)C(C)(C)CCC2(C)C.Cl.Cl[Al](Cl)Cl>>COC(=O)c1ccc(C(=O)c2cc3c(cc2C)C(C)(C)CCC3(C)C)cc1
+Target Vorozole
+Industrial:
+CN(C)C=O.Cn1nnc2ccc([C@H](Cl)c3ccc(Cl)cc3)cc21.[H-].[Na+].c1nc[nH]n1>>Cn1nnc2ccc([C@H](c3ccc(Cl)cc3)n3cncn3)cc21
+IBM RXN:
+CNc1cc([C@H](c2ccc(Cl)cc2)n2cncn2)ccc1N.CC(=O)O.O.O=N[O-].[Na+]>>Cn1nnc2ccc([C@H](c3ccc(Cl)cc3)n3cncn3)cc21
+CNc1cc([C@H](c2ccc(Cl)cc2)n2cncn2)ccc1[N+](=O)[O-].CCOC(C)=O.[Pd]>>CNc1cc([C@H](c2ccc(Cl)cc2)n2cncn2)ccc1N
+CC(=O)N(C)c1cc([C@H](c2ccc(Cl)cc2)n2cncn2)ccc1[N+](=O)[O-].Cl>>CNc1cc([C@H](c2ccc(Cl)cc2)n2cncn2)ccc1[N+](=O)[O-]
+CC(=O)Nc1cc([C@H](c2ccc(Cl)cc2)n2cncn2)ccc1[N+](=O)[O-].C1CCOC1.CI.[H-].[Na+]>>CC(=O)N(C)c1cc([C@H](c2ccc(Cl)cc2)n2cncn2)ccc1[N+](=O)[O-]
+CC(=O)Nc1cccc([C@H](c2ccc(Cl)cc2)n2cncn2)c1.CC(=O)OC(C)=O.O=[N+]([O-])O>>CC(=O)Nc1cc([C@H](c2ccc(Cl)cc2)n2cncn2)ccc1[N+](=O)[O-]
+Nc1cccc([C@H](c2ccc(Cl)cc2)n2cncn2)c1.CC(=O)OC(C)=O.ClCCl>>CC(=O)Nc1cccc([C@H](c2ccc(Cl)cc2)n2cncn2)c1
+CC(C)(C)OC(=O)Nc1cccc([C@H](c2ccc(Cl)cc2)n2cncn2)c1.O=C(O)C(F)(F)F>>Nc1cccc([C@H](c2ccc(Cl)cc2)n2cncn2)c1
+CC(C)(C)OC(=O)Nc1cccc([C@@H](O)c2ccc(Cl)cc2)c1.CC(C)OC(=O)/N=N/C(=O)OC(C)C.c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1nc[nH]n1>>CC(C)(C)OC(=O)Nc1cccc([C@H](c2ccc(Cl)cc2)n2cncn2)c1
+Nc1cccc([C@@H](O)c2ccc(Cl)cc2)c1.C1CCOC1.CC(C)(C)OC(=O)OC(=O)OC(C)(C)C>>CC(C)(C)OC(=O)Nc1cccc([C@@H](O)c2ccc(Cl)cc2)c1
+O=[N+]([O-])c1cccc([C@@H](O)c2ccc(Cl)cc2)c1.[H][H]>>Nc1cccc([C@@H](O)c2ccc(Cl)cc2)c1
+Target Tamoxifen precursor
+Industrial:
+Brc1ccccc1.CCOCC.[Mg]>>Br[Mg]c1ccccc1
+Br[Mg]c1ccccc1.CCC(C(=O)c1ccc(OCCN(C)C)cc1)c1ccccc1.CCOCC>>CCC(c1ccccc1)C(O)(c1ccccc1)c1ccc(OCCN(C)C)cc1
+IBM RXN:
+CCC(c1ccccc1)C(O)(c1ccccc1)c1ccc(O)cc1.CN(C)CCCl.Cl>>CCC(c1ccccc1)C(O)(c1ccccc1)c1ccc(OCCN(C)C)cc1
+Br[Mg]c1ccccc1.CCC(C(=O)c1ccc(O)cc1)c1ccccc1>>CCC(c1ccccc1)C(O)(c1ccccc1)c1ccc(O)cc1
+Brc1ccccc1.[Mg]>>Br[Mg]c1ccccc1
+Target Pipobroman
+Industrial:
+C1CNCCN1.ClC(Cl)Cl.O=C(Cl)CCBr.O=C(Cl)CCBr.c1ccccc1>>O=C(CCBr)N1CCN(C(=O)CCBr)CC1
+IBM RXN:
+Cl.O=C(CCBr)N1CCNCC1.ClCCl.Cl.O=C(CCBr)N1CCNCC1.O=C(Cl)CCBr>>O=C(CCBr)N1CCN(C(=O)CCBr)CC1
+CC(C)(C)OC(=O)N1CCN(C(=O)CCBr)CC1.CCOCC.Cl>>Cl.O=C(CCBr)N1CCNCC1
+CC(C)(C)OC(=O)N1CCNCC1.CN(C)c1ccncc1.ClCCl.O=C(Cl)CCBr>>CC(C)(C)OC(=O)N1CCN(C(=O)CCBr)CC1
+Target Tegafur
+Industrial:
+C1=COCC1.CC#N.C[Si](C)(C)Oc1ncc(F)c(O[Si](C)(C)C)n1.[Cl-].[Cl-].[Cl-].[Cl-].[Sn+4]>>O=c1[nH]c(=O)n(C2CCCO2)cc1F
+IBM RXN:
+O=c1[nH]cc(F)c(=O)[nH]1.C1=COCC1.C1CCOC1.CCOC(C)=O>>O=c1[nH]c(=O)n(C2CCCO2)cc1F
+CC(=O)O.FF.O=c1cc[nH]c(=O)[nH]1>>O=c1[nH]cc(F)c(=O)[nH]1
+Target Mitotane precursor
+Industrial:
+Clc1ccccc1[Mg]Br.O=CC(Cl)Cl>>OC(c1ccccc1Cl)C(Cl)Cl
+IBM RXN:
+CCO.O=C(c1ccccc1Cl)C(Cl)Cl.[BH4-].[Na+].[BH4-].[Na+]>>OC(c1ccccc1Cl)C(Cl)Cl
+Target Letrozole precursor
+Industrial:
+N#Cc1ccccc1CBr.c1nc[nH]n1>>N#Cc1ccccc1Cn1cncn1
+IBM RXN:
+CN(C)C=O.N#Cc1ccccc1CBr.O=C([O-])[O-].[K+].[K+].c1nc[nH]n1.O=C([O-])[O-].[K+].[K+]>>N#Cc1ccccc1Cn1cncn1
+Target Busulfan
+Industrial:
+CS(=O)(=O)Cl.CS(=O)(=O)Cl.OCCCCO.c1ccncc1>>CS(=O)(=O)OCCCCOS(C)(=O)=O
+IBM RXN:
+CS(=O)(=O)Cl.OCCCCO.c1ccncc1>>CS(=O)(=O)OCCCCOS(C)(=O)=O
+Target Fludarabine precursor
+Industrial:
+CC(=O)OC(C)=O.CN(C)C=O.Nc1nc2c(ncn2[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)[nH]1.c1ccncc1>>CC(=O)OC[C@H]1O[C@@H](n2cnc3c(=O)[nH]c(N)nc32)[C@H](OC(C)=O)[C@@H]1OC(C)=O
+IBM RXN:
+CC(=O)OC(C)=O.Nc1nc2c(ncn2[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)[nH]1.c1ccncc1>>CC(=O)OC[C@H]1O[C@@H](n2cnc3c(=O)[nH]c(N)nc32)[C@H](OC(C)=O)[C@@H]1OC(C)=O
+Target Azacitidine
+Industrial:
+CO.CSc1ncn([C@@H]2O[C@H](COC(=O)c3ccccc3)[C@@H](OC(=O)c3ccccc3)[C@H]2OC(=O)c2ccccc2)c(=O)n1.C[O-].[Na+]>>CSc1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1
+CO.CSc1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1.N>>Nc1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1
+IBM RXN:
+CC(=O)OC[C@H]1O[C@@H](n2cnc(N)nc2=O)[C@H](OC(C)=O)[C@@H]1OC(C)=O.CO.C[O-].[Na+].C[O-].[Na+]>>Nc1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1
+Target Exemestane
+Industrial:
+C1COCCO1.C=C1C[C@H]2[C@@H]3CCC(=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12.N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O>>C=C1C[C@@H]2[C@H](CC[C@]3(C)C(=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12
+IBM RXN:
+C=C1C[C@@H]2[C@H](CC[C@]3(C)[C@@H](O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12.ClCCl.O=[Cr](=O)([O-])Cl.c1cc[nH+]cc1>>C=C1C[C@@H]2[C@H](CC[C@]3(C)C(=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12
+C=C1C[C@@H]2[C@H](CC[C@]3(C)[C@@H](OC(C)=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12.CO.O=C([O-])[O-].[K+].[K+]>>C=C1C[C@@H]2[C@H](CC[C@]3(C)[C@@H](O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12
+C=C1C[C@H]2[C@@H]3CC[C@H](OC(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12.N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O>>C=C1C[C@@H]2[C@H](CC[C@]3(C)[C@@H](OC(C)=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12
+C=C1C[C@H]2[C@@H]3CC[C@H](O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12.C1CCOC1.CC(=O)OC(C)=O.CN(C)c1ccncc1>>C=C1C[C@H]2[C@@H]3CC[C@H](OC(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12
+C=C1C[C@H]2[C@@H]3CC[C@H](O[Si](C)(C)C(C)(C)C)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12.C1CCOC1.CCCC[N+](CCCC)(CCCC)CCCC.[F-]>>C=C1C[C@H]2[C@@H]3CC[C@H](O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12
+C=C1C[C@H]2[C@@H]3CC[C@H](O[Si](C)(C)C(C)(C)C)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C[C@]12O.CC(=O)OI1(OC(C)=O)(OC(C)=O)OC(=O)c2ccccc21.ClCCl>>C=C1C[C@H]2[C@@H]3CC[C@H](O[Si](C)(C)C(C)(C)C)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12
+C=C1C[C@H]2[C@@H]3CC[C@H](O[Si](C)(C)C(C)(C)C)[C@@]3(C)CC[C@@H]2[C@@]2(C)CC[C@H](O)C[C@]12O.ClCCl.O=[Cr](=O)([O-])Cl.c1cc[nH+]cc1>>C=C1C[C@H]2[C@@H]3CC[C@H](O[Si](C)(C)C(C)(C)C)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C[C@]12O
+CC(C)(C)[Si](C)(C)O[C@H]1CC[C@H]2[C@@H]3CC(=O)[C@]4(O)C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C.C1CCOC1.C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-].[Li]CCCC>>C=C1C[C@H]2[C@@H]3CC[C@H](O[Si](C)(C)C(C)(C)C)[C@@]3(C)CC[C@@H]2[C@@]2(C)CC[C@H](O)C[C@]12O
+CC(C)(C)[Si](C)(C)O[C@H]1CC[C@H]2[C@@H]3CC(=O)[C@]4(O)C[C@@H](OCc5ccccc5)CC[C@]4(C)[C@H]3CC[C@]12C.CCO.[Pd]>>CC(C)(C)[Si](C)(C)O[C@H]1CC[C@H]2[C@@H]3CC(=O)[C@]4(O)C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+CC(C)(C)[Si](C)(C)O[C@H]1CC[C@H]2[C@@H]3C[C@H](O)[C@]4(O)C[C@@H](OCc5ccccc5)CC[C@]4(C)[C@H]3CC[C@]12C.ClCCl.O=[Cr](=O)([O-])Cl.c1cc[nH+]cc1>>CC(C)(C)[Si](C)(C)O[C@H]1CC[C@H]2[C@@H]3CC(=O)[C@]4(O)C[C@@H](OCc5ccccc5)CC[C@]4(C)[C@H]3CC[C@]12C
+Target Carphenazine
+Industrial:
+CCC(=O)c1ccc2c(c1)Nc1ccccc1S2.CN(C)C=O.ClCCCBr.[H-].[Na+]>>CCC(=O)c1ccc2c(c1)N(CCCCl)c1ccccc1S2
+CCC(=O)c1ccc2c(c1)N(CCCCl)c1ccccc1S2.OCCN1CCNCC1>>CCC(=O)c1ccc2c(c1)N(CCCN1CCN(CCO)CC1)c1ccccc1S2
+IBM RXN:
+CCC(=O)c1ccc2c(c1)N(CCCCl)c1ccccc1S2.CC#N.O=C([O-])[O-].[K+].[K+].OCCN1CCNCC1>>CCC(=O)c1ccc2c(c1)N(CCCN1CCN(CCO)CC1)c1ccccc1S2
+CCC(=O)c1ccc2c(c1)Nc1ccccc1S2.ClCCCI>>CCC(=O)c1ccc2c(c1)N(CCCCl)c1ccccc1S2
+Target Droperidol
+Industrial:
+CC(=O)CC(C)C.O=C(CCCCl)c1ccc(F)cc1.O=C([O-])[O-].O=c1[nH]c2ccccc2n1C1=CCNCC1.[I-].[K+].[Na+].[Na+]>>O=C(CCCN1CC=C(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1
+IBM RXN:
+CN(C)C=O.O=C(CCCCl)c1ccc(F)cc1.O=c1[nH]c2ccccc2n1C1=CCNCC1>>O=C(CCCN1CC=C(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1
+Target Dixyrazine
+Industrial:
+CC(CCl)CBr.Cc1ccccc1.N.[NH2-].[Na+].c1ccc2c(c1)Nc1ccccc1S2>>CC(CCl)CN1c2ccccc2Sc2ccccc21
+CC(CCl)CN1c2ccccc2Sc2ccccc21.OCCOCCN1CCNCC1>>CC(CN1CCN(CCOCCO)CC1)CN1c2ccccc2Sc2ccccc21
+IBM RXN:
+CC(CN1CCNCC1)CN1c2ccccc2Sc2ccccc21.O=C([O-])[O-].[K+].[K+].OCCOCCCl>>CC(CN1CCN(CCOCCO)CC1)CN1c2ccccc2Sc2ccccc21
+CC(COS(C)(=O)=O)CN1c2ccccc2Sc2ccccc21.C1CNCCN1>>CC(CN1CCNCC1)CN1c2ccccc2Sc2ccccc21
+CC(CO)CN1c2ccccc2Sc2ccccc21.CCN(CC)CC.CS(=O)(=O)Cl.ClCCl>>CC(COS(C)(=O)=O)CN1c2ccccc2Sc2ccccc21
+CC(CO)CBr.CN(C)C=O.[NaH].c1ccc2c(c1)Nc1ccccc1S2>>CC(CO)CN1c2ccccc2Sc2ccccc21
+Target Cyamemazine
+Industrial:
+Clc1ccc2c(c1)Nc1ccccc1S2.[C-]#N.[C-]#N.[Cu+2].c1ccc2ncccc2c1>>N#Cc1ccc2c(c1)Nc1ccccc1S2
+CC(CCl)CN(C)C.Cc1ccc(C)cc1.N#Cc1ccc2c(c1)Nc1ccccc1S2.[NH2-].[Na+]>>CC(CN(C)C)CN1c2ccccc2Sc2ccc(C#N)cc21
+IBM RXN:
+N#Cc1ccc2c(c1)Nc1ccccc1S2.CC(CCl)CN(C)C.CN(C)C=O.[NaH]>>CC(CN(C)C)CN1c2ccccc2Sc2ccc(C#N)cc21
+Brc1ccc2c(c1)Nc1ccccc1S2.CN(C)C=O.O.[C-]#N.[Cu+].[C-]#N.[Cu+]>>N#Cc1ccc2c(c1)Nc1ccccc1S2
+Target Chlormezanone
+Industrial:
+CN.O=C(O)CCS.O=Cc1ccc(Cl)cc1.c1ccccc1>>CN1C(=O)CCSC1c1ccc(Cl)cc1
+CC(=O)O.CN1C(=O)CCSC1c1ccc(Cl)cc1.O.O=[Mn](=O)(=O)[O-].[K+]>>CN1C(=O)CCS(=O)(=O)C1c1ccc(Cl)cc1
+IBM RXN:
+O=C1CCS(=O)(=O)C(c2ccc(Cl)cc2)N1.CI.CN(C)C=O.O.[H-].[Na+]>>CN1C(=O)CCS(=O)(=O)C1c1ccc(Cl)cc1
+O=C1CCSC(c2ccc(Cl)cc2)N1.O=C(OO)c1cccc(Cl)c1>>O=C1CCS(=O)(=O)C(c2ccc(Cl)cc2)N1
+NC(=O)CCS.O=Cc1ccc(Cl)cc1.O=S(=O)(O)O>>O=C1CCSC(c2ccc(Cl)cc2)N1
+Target Chlordiazepoxide precursor
+Industrial:
+CCO.Cl.NO.Nc1ccc(Cl)cc1C(=O)c1ccccc1.c1ccncc1>>Nc1ccc(Cl)cc1C(=NO)c1ccccc1
+IBM RXN:
+Cl.NO.Nc1ccc(Cl)cc1C(=O)c1ccccc1.[Na+].[OH-].Cl.NO.[Na+].[OH-]>>Nc1ccc(Cl)cc1C(=NO)c1ccccc1
+Target Loxapine
+Industrial:
+CCOC(=O)Cl.Cl.Nc1ccccc1Oc1ccc(Cl)cc1.c1ccncc1>>CCOC(=O)Nc1ccccc1Oc1ccc(Cl)cc1
+CCOC(=O)Nc1ccccc1Oc1ccc(Cl)cc1.CN1CCNCC1.C[O-].[Na+].c1ccccc1>>CN1CCN(C(=O)Nc2ccccc2Oc2ccc(Cl)cc2)CC1
+CN1CCN(C(=O)Nc2ccccc2Oc2ccc(Cl)cc2)CC1.Cl.ClC(Cl)Cl>>CN1CCN(C(=O)Nc2ccccc2Oc2ccc(Cl)cc2)CC1~Cl
+CN1CCN(C(=O)Nc2ccccc2Oc2ccc(Cl)cc2)CC1.Cl.O=P(=O)OP(=O)=O.O=P(Cl)(Cl)Cl>>CN1CCN(C2=Nc3ccccc3Oc3ccc(Cl)cc32)CC1
+IBM RXN:
+CSC1=Nc2ccccc2Oc2ccc(Cl)cc21.CN1CCNCC1.c1ccccc1>>CN1CCN(C2=Nc3ccccc3Oc3ccc(Cl)cc32)CC1
+S=C1Nc2ccccc2Oc2ccc(Cl)cc21.CI.CO.C[O-].[Na+]>>CSC1=Nc2ccccc2Oc2ccc(Cl)cc21
+C1CCOC1.O=C1Nc2ccccc2Oc2ccc(Cl)cc21.S=P12SP3(=S)SP(=S)(S1)SP(=S)(S2)S3>>S=C1Nc2ccccc2Oc2ccc(Cl)cc21
+Target Buclizine
+Industrial:
+CCN(CC)CC.CCOC(=O)N1CCNCC1.Cc1ccccc1.Clc1ccc(C(Cl)c2ccccc2)cc1>>CCOC(=O)N1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1
+CCO.CCOC(=O)N1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1.[K+].[OH-]>>Clc1ccc(C(c2ccccc2)N2CCNCC2)cc1
+CC(C)(C)c1ccc(CCl)cc1.CCN(CC)CC.Clc1ccc(C(c2ccccc2)N2CCNCC2)cc1>>CC(C)(C)c1ccc(CN2CCN(C(c3ccccc3)c3ccc(Cl)cc3)CC2)cc1
+IBM RXN:
+CC(C)(C)c1ccc(CN2CCNCC2)cc1.Clc1ccc(C(Cl)c2ccccc2)cc1>>CC(C)(C)c1ccc(CN2CCN(C(c3ccccc3)c3ccc(Cl)cc3)CC2)cc1
+C1CCOC1.C1CNCCN1.CC(C)(C)c1ccc(CBr)cc1>>CC(C)(C)c1ccc(CN2CCNCC2)cc1
+Target Benperidol
+Industrial:
+CC(=O)CC(C)C.Cl.O=C(CCCCl)c1ccc(F)cc1.O=C([O-])[O-].O=c1[nH]c2ccccc2n1C1CCNCC1.[I-].[K+].[Na+].[Na+]>>O=C(CCCN1CCC(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1
+IBM RXN:
+CN(C)C=O.O=C(CCCCl)c1ccc(F)cc1.O=c1[nH]c2ccccc2n1C1CCNCC1.O.O.O.O>>O=C(CCCN1CCC(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1
+Target Benactyzine
+Industrial:
+CCN(CC)CCO.CCOC(=O)C(O)(c1ccccc1)c1ccccc1.[Na]>>CCN(CC)CCOC(=O)C(O)(c1ccccc1)c1ccccc1
+IBM RXN:
+CCN(CC)CCO.CCOC(=O)C(O)(c1ccccc1)c1ccccc1.Cc1ccccc1.[Na]>>CCN(CC)CCOC(=O)C(O)(c1ccccc1)c1ccccc1
+CCNCC.ClCCl.OCCBr>>CCN(CC)CCO
+Target Flupentixol precursor
+Industrial:
+Cc1ccc(S(=O)(=O)Cl)cc1.O=C(OCCO)c1ccccc1.c1ccncc1>>Cc1ccc(S(=O)(=O)OCCOC(=O)c2ccccc2)cc1
+CCOC(=O)N1CCNCC1.Cc1ccc(S(=O)(=O)OCCOC(=O)c2ccccc2)cc1.Cc1ccccc1.O=C([O-])[O-].[K+].[K+]>>CCOC(=O)N1CCN(CCOC(=O)c2ccccc2)CC1
+IBM RXN:
+CCN(CC)CC.CCOC(=O)N1CCN(CCO)CC1.ClCCl.O=C(Cl)c1ccccc1>>CCOC(=O)N1CCN(CCOC(=O)c2ccccc2)CC1
+Target Kawain precursor
+Industrial:
+CCOC(=O)CC(C)=O.ClC(Cl)(Cl)Cl.O=C1CC(Br)C(=O)N1>>CCOC(=O)C(Br)C(C)=O
+IBM RXN:
+CCOC(=O)CC(C)=O.ClCCl.O=C1CCC(=O)N1Br>>CCOC(=O)C(Br)C(C)=O
+Target Nifurzide
+Industrial:
+CCO.Cl.O=C(O)c1ccc([N+](=O)[O-])s1>>CCOC(=O)c1ccc([N+](=O)[O-])s1
+CCOC(=O)c1ccc([N+](=O)[O-])s1.NN>>NNC(=O)c1ccc([N+](=O)[O-])s1
+C1CCOC1.NNC(=O)c1ccc([N+](=O)[O-])s1.O=C/C=C/c1ccc([N+](=O)[O-])o1>>O=C(N/N=C/C=C/c1ccc([N+](=O)[O-])o1)c1ccc([N+](=O)[O-])s1
+IBM RXN:
+NNC(=O)c1ccc([N+](=O)[O-])s1.O=C/C=C/c1ccc([N+](=O)[O-])o1>>O=C(N/N=C/C=C/c1ccc([N+](=O)[O-])o1)c1ccc([N+](=O)[O-])s1
+CO.COC(=O)c1ccc([N+](=O)[O-])s1.NN.O>>NNC(=O)c1ccc([N+](=O)[O-])s1
+Target Thiothixene precursor
+Industrial:
+CN(C)C=O.O=S(=O)([O-])c1ccc2c(c1)Cc1ccccc1S2.O=S(Cl)Cl>>O=S(=O)(Cl)c1ccc2c(c1)Cc1ccccc1S2
+CNC.O=S(=O)(Cl)c1ccc2c(c1)Cc1ccccc1S2>>CN(C)S(=O)(=O)c1ccc2c(c1)Cc1ccccc1S2
+IBM RXN:
+O=S(=O)(Cl)c1ccc2c(c1)Cc1ccccc1S2.C1CCOC1.CNC.O>>CN(C)S(=O)(=O)c1ccc2c(c1)Cc1ccccc1S2
+O=S(=O)(O)c1ccc2c(c1)Cc1ccccc1S2.ClP(Cl)(Cl)(Cl)Cl.O.O>>O=S(=O)(Cl)c1ccc2c(c1)Cc1ccccc1S2
+O=c1c2ccccc2sc2ccc(S(=O)(=O)O)cc12.[H][H].[Ni]>>O=S(=O)(O)c1ccc2c(c1)Cc1ccccc1S2
+O=C(O)c1ccccc1Sc1ccc(S(=O)(=O)O)cc1.O>>O=c1c2ccccc2sc2ccc(S(=O)(=O)O)cc12
+O=C(O)c1ccccc1S.O=S(=O)(O)c1ccc(I)cc1.[Cu]>>O=C(O)c1ccccc1Sc1ccc(S(=O)(=O)O)cc1
+Target Acitretin
+Industrial:
+CC(/C=C/C1=C(C)C=C(OC)C(C)=C1C)=C\C[P+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.[Br-].CCCCOC(=O)/C=C(/C)\C=O.[NaH]>>O=C(OCCCC)/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)C=C(OC)C(C)=C1C
+O=C(OCCCC)/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)C=C(OC)C(C)=C1C.[OH-].[Na+].O.CO>>O=C(O)/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)C=C(OC)C(C)=C1C
+IBM RXN:
+COc1cc(C)c(/C=C/C(C)=C/C=C/C(C)=C/CO)c(C)c1C.CC(C)=O.CC(C)=O.O=S(=O)(O)O.O=[Cr](=O)=O>>O=C(O)/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)C=C(OC)C(C)=C1C
+CC(C)C[AlH]CC(C)C.CCOC(=O)/C=C(C)/C=C/C=C(C)/C=C/c1c(C)cc(OC)c(C)c1C.Cc1ccccc1.Cl>>COc1cc(C)c(/C=C/C(C)=C/C=C/C(C)=C/CO)c(C)c1C
+Target Acrivastine precursor
+Industrial:
+[Li]CCCC.C1=CC(=NC(=C1)Br)Br.CCOCC.CC1=CC=C(C#N)C=C1>>CC1=CC=C(C(C2=CC=CC(Br)=N2)=O)C=C1
+CC1=CC=C(S(=O)(O)=O)C=C1.OCCO.CC2=CC=C(C(C3=CC=CC(Br)=N3)=O)C=C2.C4=CC=CC=C4>>CC1=CC=C(C2(C3=NC(Br)=CC=C3)OCCO2)C=C1
+CC1=CC=C(C2(C3=NC(Br)=CC=C3)OCCO2)C=C1.[Li]CCCC.CCCCCC.CC1=CC=CC=C1.O=CN(C)C>>CC1=CC=C(C2(C3=NC(C=O)=CC=C3)OCCO2)C=C1
+IBM RXN:
+Cc1ccc(C2(c3cccc(Br)n3)OCCO2)cc1.C1CCOC1.CC(C)[Mg]Cl.CN(C)C=O>>CC1=CC=C(C2(C3=NC(C=O)=CC=C3)OCCO2)C=C1
+Cc1ccc(C(=O)c2cccc(Br)n2)cc1.C1CCOC1.Cc1ccc(S(=O)(=O)O)cc1.OCCO>>Cc1ccc(C2(c3cccc(Br)n3)OCCO2)cc1
+Brc1cccc(Br)n1.C1CCOC1.CON(C)C(=O)c1ccc(C)cc1.[Cl-].[NH4+].[Mg].[Cl-].[NH4+]>>Cc1ccc(C(=O)c2cccc(Br)n2)cc1
+Target Arteflene precursor
+Industrial:
+CC1=CC[C@H](CC1=O)C(=C)C.ClCCl.O=C(OO)C1=CC=CC(Cl)=C1>>CC1=CC[C@@H](C2(C)CO2)CC1=O
+CC1=CC[C@@H](C2(C)CO2)CC1=O.O=C(O)O.O=S(=O)(O)O.O=S([O-])[O-].[Na+].[Na+].[Na+].[Na+].[O-][I+3]([O-])([O-])[O-]>>CC(=O)[C@@H]1CC=C(C)C(=O)C1
+C1CCOC1.CC(=O)[C@@H]1CC=C(C)C(=O)C1.CCCCCC.CCCC[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Ar].[Br-].[Li]CCCC>>CCCC=C(C)[C@@H]1CC=C(C)C(=O)C1
+IBM RXN:
+CCCC=C(C)[C@@H]1CC=C(C)C(OC)(OC)C1.ClCCl.O=C(O)C(F)(F)F>>CCCC=C(C)[C@@H]1CC=C(C)C(=O)C1
+COC1(OC)C[C@H](C(C)=O)CC=C1C.C1CCOC1.CCCC[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-].[Li]CCCC>>CCCC=C(C)[C@@H]1CC=C(C)C(OC)(OC)C1
+COC1(OC)C[C@H](C#N)CC=C1C.C1CCOC1.C[Mg]Br>>COC1(OC)C[C@H](C(C)=O)CC=C1C
+COC1(OC)C[C@H](C(N)=O)CC=C1C.ClCCl.O=C(OC(=O)C(F)(F)F)C(F)(F)F>>COC1(OC)C[C@H](C#N)CC=C1C
+COC1(OC)C[C@H](C(=O)O)CC=C1C.C1CCOC1.CC(C)COC(=O)Cl.CN1CCOCC1.[NH4+].[OH-]>>COC1(OC)C[C@H](C(N)=O)CC=C1C
+COC(=O)[C@@H]1CC=C(C)C(OC)(OC)C1.C1CCOC1.CO.O.[Li]O>>COC1(OC)C[C@H](C(=O)O)CC=C1C
+COC(=O)[C@@H]1CC=C(C)C(=O)C1.CO.COC(OC)OC.Cc1ccc(S(=O)(=O)O)cc1.O>>COC(=O)[C@@H]1CC=C(C)C(OC)(OC)C1
+CC1=CC[C@@H](C(=O)O)CC1=O.C=[N+]=[N-]>>COC(=O)[C@@H]1CC=C(C)C(=O)C1
+CCOC(=O)[C@@H]1CC=C(C)C(=O)C1.CO.O.O[Na]>>CC1=CC[C@@H](C(=O)O)CC1=O
+CCOC(=O)[C@@H]1CC=C(C)C(O)C1.ClCCl.O=[Cr](=O)([O-])Cl.c1cc[nH+]cc1>>CCOC(=O)[C@@H]1CC=C(C)C(=O)C1
+Target Clomifen precursor
+Industrial:
+CCN(CC)CCOc1ccc(C(=O)c2ccccc2)cc1.Cl[Mg]Cc1ccccc1>>CCN(CC)CCOc1ccc(C(O)(Cc2ccccc2)c2ccccc2)cc1
+IBM RXN:
+C1CCOC1.CCN(CC)CCOc1ccc(Br)cc1.O=C(Cc1ccccc1)c1ccccc1.[Li]CCCC>>CCN(CC)CCOc1ccc(C(O)(Cc2ccccc2)c2ccccc2)cc1
+Target Dimestrol precursor
+Industrial:
+CCCC(Cl)c1ccc(OC)cc1.CCOCC.II.[Mg]>>CCCC([Mg]Cl)c1ccc(OC)cc1
+CCC(=O)c1ccc(OC)cc1.CCCC([Mg]Cl)c1ccc(OC)cc1.[Cl-].[Cl-].[Mn+].c1ccccc1>>CCCC(c1ccc(OC)cc1)C(O)(CC)c1ccc(OC)cc1
+IBM RXN:
+CCCC(C(=O)CC)c1ccc(OC)cc1.COc1ccc([Mg]Br)cc1.CCOCC>>CCCC(c1ccc(OC)cc1)C(O)(CC)c1ccc(OC)cc1
+C1CCOC1.CCC(=O)Cc1ccc(OC)cc1.CCCI.[NaH]>>CCCC(C(=O)CC)c1ccc(OC)cc1
+C1CCOC1.COc1ccc(Br)cc1.II.[Mg]>>COc1ccc([Mg]Br)cc1
+Target Entacapone
+Industrial:
+C1CCNCC1.CC(=O)O.CCN(CC)C(=O)CC#N.CCO.O=Cc1cc(O)c(O)c([N+](=O)[O-])c1>>CCN(CC)C(=O)/C(C#N)=C/c1cc(O)c(O)c([N+](=O)[O-])c1
+IBM RXN:
+BrB(Br)Br.CCN(CC)C(=O)/C(C#N)=C/c1cc(OC)c(O)c([N+](=O)[O-])c1.ClCCl.O>>CCN(CC)C(=O)/C(C#N)=C/c1cc(O)c(O)c([N+](=O)[O-])c1
+Target Ethclorvynol
+Industrial:
+C#C.CCC(=O)/C=C/Cl.N.[Li]>>C#CC(O)(/C=C/Cl)CC
+IBM RXN:
+C#C[Mg]Br.C1CCOC1.CCC(=O)/C=C/Cl.O.[Cl-].[NH4+].[Cl-].[NH4+]>>C#CC(O)(/C=C/Cl)CC
+Target Fluvastatin precursor
+Industrial:
+Fc1ccccc1.N#N.O=C(Cl)CCl.[Al+3].[Cl-].[Cl-].[Cl-]>>O=C(CCl)c1ccc(F)cc1
+CC(C)Nc1ccccc1.CN(C)C=O.N#N.O=C(CCl)c1ccc(F)cc1>>CC(C)N(CC(=O)c1ccc(F)cc1)c1ccccc1
+IBM RXN:
+CC(C)Nc1ccccc1.O=C(CBr)c1ccc(F)cc1.O=C([O-])[O-].[K+].[K+].O=C([O-])[O-].[K+].[K+]>>CC(C)N(CC(=O)c1ccc(F)cc1)c1ccccc1
+Target Leflunomide
+Industrial:
+Cc1oncc1C(=O)Cl.ClCCl.Nc1ccc(C(F)(F)F)cc1.O.[K+].[OH-]>>Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1
+IBM RXN:
+Cc1oncc1C(=O)O.Nc1ccc(C(F)(F)F)cc1.O=S(Cl)Cl>>Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1
+Target Reproterol
+Industrial:
+ClCCCBr.Cn1c(=O)c2[nH]cnc2n(C)c1=O>>Cn1c(=O)c2c(ncn2CCCCl)n(C)c1=O
+Cn1c(=O)c2c(ncn2CCCCl)n(C)c1=O.NCc1ccccc1>>Cn1c(=O)c2c(ncn2CCCNCc2ccccc2)n(C)c1=O
+Cn1c(=O)c2c(ncn2CCCNCc2ccccc2)n(C)c1=O.O=C(CBr)c1cc(O)cc(O)c1>>Cn1c(=O)c2c(ncn2CCCN(CC(=O)c2cc(O)cc(O)c2)Cc2ccccc2)n(C)c1=O
+CC(=O)N(C)C.Cl.Cn1c(=O)c2c(ncn2CCCN(CC(=O)c2cc(O)cc(O)c2)Cc2ccccc2)n(C)c1=O.[H][H].[Pd]>>Cn1c(=O)c2c(ncn2CCCNCC(O)c2cc(O)cc(O)c2)n(C)c1=O
+IBM RXN:
+Cn1c(=O)c2c(ncn2CCCNCC(O)c2cc(OCc3ccccc3)cc(OCc3ccccc3)c2)n(C)c1=O.[H][H]>>Cn1c(=O)c2c(ncn2CCCNCC(O)c2cc(O)cc(O)c2)n(C)c1=O
+NCC(O)c1cc(OCc2ccccc2)cc(OCc2ccccc2)c1.CN(C)C=O.Cn1c(=O)c2c(ncn2CCCBr)n(C)c1=O>>Cn1c(=O)c2c(ncn2CCCNCC(O)c2cc(OCc3ccccc3)cc(OCc3ccccc3)c2)n(C)c1=O
+CO.N.c1ccc(COc2cc(OCc3ccccc3)cc(C3CO3)c2)cc1>>NCC(O)c1cc(OCc2ccccc2)cc(OCc2ccccc2)c1
+Target Theodrenaline
+Industrial:
+CCO.Cn1c(=O)c2c(ncn2CCN)n(C)c1=O.O=C(CCl)c1ccc(O)c(O)c1>>Cn1c(=O)c2c(ncn2CCNCC(=O)c2ccc(O)c(O)c2)n(C)c1=O
+Cl.Cn1c(=O)c2c(ncn2CCNCC(=O)c2ccc(O)c(O)c2)n(C)c1=O.O.[H][H].[O-2].[O-2].[Pt+4]>>Cn1c(=O)c2c(ncn2CCNCC(O)c2ccc(O)c(O)c2)n(C)c1=O
+IBM RXN:
+Cn1c(=O)c2c(ncn2CC=O)n(C)c1=O.NCC(O)c1ccc(O)c(O)c1.CCO.[BH3-]C#N.[Na+]>>Cn1c(=O)c2c(ncn2CCNCC(O)c2ccc(O)c(O)c2)n(C)c1=O
+CC(=O)OI1(OC(C)=O)(OC(C)=O)OC(=O)c2ccccc21.ClCCl.Cn1c(=O)c2c(ncn2CCO)n(C)c1=O>>Cn1c(=O)c2c(ncn2CC=O)n(C)c1=O
+CO.NCC(=O)c1ccc(O)c(O)c1.[BH4-].[Na+].[BH4-].[Na+]>>NCC(O)c1ccc(O)c(O)c1
+Target Tranilast
+Industrial:
+COC(=O)c1ccccc1N.COc1ccc(/C=C/C(=O)O)cc1OC.O=S(=O)(Cl)c1ccccc1.c1ccncc1>>COC(=O)c1ccccc1NC(=O)/C=C/c1ccc(OC)c(OC)c1
+COC(=O)c1ccccc1NC(=O)/C=C/c1ccc(OC)c(OC)c1.ClC(Cl)Cl.[Na+].[OH-]>>COc1ccc(/C=C/C(=O)Nc2ccccc2C(=O)O)cc1OC
+IBM RXN:
+COC(=O)c1ccccc1NC(=O)/C=C/c1ccc(OC)c(OC)c1.CO.O[Na]>>COc1ccc(/C=C/C(=O)Nc2ccccc2C(=O)O)cc1OC
+CCN(CC)CC.COC(=O)c1ccccc1N.COc1ccc(/C=C/C(=O)O)cc1OC.ClCCl.O=C(Cl)C(=O)Cl>>COC(=O)c1ccccc1NC(=O)/C=C/c1ccc(OC)c(OC)c1
+Target Viquidil precursor
+Industrial:
+C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@H](O)c1ccnc2ccc(OC(=O)OCC)cc12.CCOC(O)CCC1CCN(C(=O)c2ccccc2)CC1CC.CC[O-].[Na+]>>C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@H](O)c1ccnc2ccc(O)cc12
+IBM RXN:
+C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@H](O)c1ccnc2ccc(OC)cc12.Cl.c1ccncc1.O.[NH4+].[OH-].Cl.c1ccncc1.[NH4+].[OH-]>>C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@H](O)c1ccnc2ccc(O)cc12
+Target 7-(2-hydroxy-3-phenoxypropyl)-1,3-dimethyl-1h-purine-2,6(3h,7h)-dione
+Industrial:
+CN(C)C=O.ClCC1CO1.Oc1ccccc1.[NaH]>>C3(OCC4OC4)=CC=CC=C3
+CN(C(N1C)=O)C2=C(NC=N2)C1=O.C3(OCC4OC4)=CC=CC=C3>>CN(C(N1C)=O)C2=C(N(CC(O)COC3=CC=CC=C3)C=N2)C1=O
+IBM RXN:
+CN(C)C=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.OC(CCl)COc1ccccc1>>CN(C(N1C)=O)C2=C(N(CC(O)COC3=CC=CC=C3)C=N2)C1=O
+Target Etofylline
+Industrial:
+C1CO1.Cn1c(=O)c2[nH]cnc2n(C)c1=O>>Cn1c(=O)c2c(ncn2CCO)n(C)c1=O
+IBM RXN:
+CN(C)C=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.O=C([O-])[O-].[K+].[K+].OCCBr.O=C([O-])[O-].[K+].[K+]>>Cn1c(=O)c2c(ncn2CCO)n(C)c1=O
+Target Proxyphilline
+Industrial:
+CC1CO1.Cn1c(=O)c2[nH]cnc2n(C)c1=O>>CC(O)Cn1cnc2c1c(=O)n(C)c(=O)n2C
+IBM RXN:
+CC(=O)Cn1cnc2c1c(=O)n(C)c(=O)n2C.[BH4-].[Na+].[BH4-].[Na+]>>CC(O)Cn1cnc2c1c(=O)n(C)c(=O)n2C
+Target Dyphylline
+Industrial:
+Cn1c(=O)c2[nH]cnc2n(C)c1=O.OCC1CO1>>Cn1c(=O)c2c(ncn2CC(O)CO)n(C)c1=O
+IBM RXN:
+CN(C)C=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.O=C([O-])[O-].[K+].[K+].OCC1CO1.O=C([O-])[O-].[K+].[K+]>>Cn1c(=O)c2c(ncn2CC(O)CO)n(C)c1=O
+Target 7-(2-Hydroxy-2-phenylethyl)-1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+Industrial:
+CS(C)=O.C[S+](C)(C)=O.[I-].O=Cc1ccccc1.[NaH].C[S+](C)(C)=O.[I-]>>c1ccc(C2CO2)cc1
+Cn1c(=O)c2[nH]cnc2n(C)c1=O.c1ccc(C2CO2)cc1>>Cn1c(=O)c2c(ncn2CC(O)c2ccccc2)n(C)c1=O
+IBM RXN:
+Cn1c(=O)c2[nH]cnc2n(C)c1=O.OC(CBr)c1ccccc1>>Cn1c(=O)c2c(ncn2CC(O)c2ccccc2)n(C)c1=O
+Target 7-(2-Aminoethyl)theophylline
+Industrial:
+CC(C)(C)OC(=O)N1CC1.[H+]>>C1CN1
+C1CN1.CN(C)C=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O>>Cn1c(=O)c2c(ncn2CCN)n(C)c1=O
+IBM RXN:
+Cn1c(=O)c2c(ncn2CCN2C(=O)c3ccccc3C2=O)n(C)c1=O.CCO.NN>>Cn1c(=O)c2c(ncn2CCN)n(C)c1=O
+CN(C)C=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.O.O=C1c2ccccc2C(=O)N1CCBr.[H-].[Na+].[H-].[Na+]>>Cn1c(=O)c2c(ncn2CCN2C(=O)c3ccccc3C2=O)n(C)c1=O
+Target Theophylline
+Industrial:
+Cn1c(=O)[nH]c(=O)c2[nH]cnc21.NOS(=O)(=O)O.[OH-]>>Cn1c(=O)[nH]c(=O)c2c1ncn2N
+CI.CN(C)C=O.Cn1c(=O)[n-]c(=O)c2c1ncn2N.[K+]>>Cn1c(=O)c2c(ncn2N)n(C)c1=O
+Cn1c(=O)c2c(ncn2N)n(C)c1=O.O=NO>>Cn1c(=O)c2[nH]cnc2n(C)c1=O
+IBM RXN:
+Cn1c(=O)c2c(ncn2Cc2ccccc2)n(C)c1=O.CO.[Pd]>>Cn1c(=O)c2[nH]cnc2n(C)c1=O
+CI.CN(C)C=O.Cn1c(=O)[nH]c(=O)c2c1ncn2Cc1ccccc1.O=C([O-])[O-].[K+].[K+].O=C([O-])[O-].[K+].[K+]>>Cn1c(=O)c2c(ncn2Cc2ccccc2)n(C)c1=O
+Target 1-Ethyl-3-methylxanthine
+Industrial:
+Cn1c(=O)[nH]c(=O)c2[nH]cnc21.NOS(=O)(=O)O.[OH-]>>Cn1c(=O)[nH]c(=O)c2c1ncn2N
+CCI.CN(C)C=O.Cn1c(=O)[n-]c(=O)c2c1ncn2N.[K+]>>CCn1c(=O)c2c(ncn2N)n(C)c1=O
+CCn1c(=O)c2c(ncn2N)n(C)c1=O.O=NO>>CCn1c(=O)c2[nH]cnc2n(C)c1=O
+IBM RXN:
+CCn1c(=O)c2c(ncn2Cc2ccccc2)n(C)c1=O.CCO.[Pd]>>CCn1c(=O)c2[nH]cnc2n(C)c1=O
+CCI.CN(C)C=O.Cn1c(=O)[nH]c(=O)c2c1ncn2Cc1ccccc1.[NaH]>>CCn1c(=O)c2c(ncn2Cc2ccccc2)n(C)c1=O
+Target Vamicamide
+Industrial:
+C[C@H](C[C@@](C#N)(c1ccccc1)c1ccccn1)N(C)C.O.O=S(=O)(O)O>>C[C@H](C[C@@](C(N)=O)(c1ccccc1)c1ccccn1)N(C)C
+IBM RXN:
+COC(=O)[C@](C[C@@H](C)N(C)C)(c1ccccc1)c1ccccn1.CO.N>>C[C@H](C[C@@](C(N)=O)(c1ccccc1)c1ccccn1)N(C)C
+COC(=O)[C@](C[C@@H](C)N)(c1ccccc1)c1ccccn1.C=O.CC#N.[BH3-]C#N.[Na+]>>COC(=O)[C@](C[C@@H](C)N(C)C)(c1ccccc1)c1ccccn1
+COC(=O)[C@](C[C@@H](C)N=[N+]=[N-])(c1ccccc1)c1ccccn1.CO.[Pd]>>COC(=O)[C@](C[C@@H](C)N)(c1ccccc1)c1ccccn1
+COC(=O)[C@](C[C@H](C)OS(C)(=O)=O)(c1ccccc1)c1ccccn1.CN(C)C=O.[N-]=[N+]=[N-].[Na+]>>COC(=O)[C@](C[C@@H](C)N=[N+]=[N-])(c1ccccc1)c1ccccn1
+COC(=O)[C@](C[C@H](C)O)(c1ccccc1)c1ccccn1.CS(=O)(=O)Cl.c1ccncc1>>COC(=O)[C@](C[C@H](C)OS(C)(=O)=O)(c1ccccc1)c1ccccn1
+COC(=O)[C@](C[C@H](C)OCc1ccccc1)(c1ccccc1)c1ccccn1.CO.[Pd]>>COC(=O)[C@](C[C@H](C)O)(c1ccccc1)c1ccccn1
+C[C@@H](C[C@@](C(=O)O)(c1ccccc1)c1ccccn1)OCc1ccccc1.CO.O=S(Cl)Cl>>COC(=O)[C@](C[C@H](C)OCc1ccccc1)(c1ccccc1)c1ccccn1
+C[C@H](O)C[C@@](C(=O)O)(c1ccccc1)c1ccccn1.BrCc1ccccc1.C1CCOC1.[NaH]>>C[C@@H](C[C@@](C(=O)O)(c1ccccc1)c1ccccn1)OCc1ccccc1
+CCOC(=O)[C@](C[C@H](C)O)(c1ccccc1)c1ccccn1.CCO.Cl.O[Na]>>C[C@H](O)C[C@@](C(=O)O)(c1ccccc1)c1ccccn1
+CCOC(=O)[C@](C[C@H](C)O[Si](C)(C)C(C)(C)C)(c1ccccc1)c1ccccn1.C1CCOC1.CCCC[N+](CCCC)(CCCC)CCCC.[F-]>>CCOC(=O)[C@](C[C@H](C)O)(c1ccccc1)c1ccccn1
+Target Tizanidine
+Industrial:
+CC(C)=O.N#C[S-].Nc1c(Cl)ccc2nsnc12.O=C(Cl)c1ccccc1.[NH4+]>>O=C(NC(=S)Nc1c(Cl)ccc2nsnc12)c1ccccc1
+O.O=C(NC(=S)Nc1c(Cl)ccc2nsnc12)c1ccccc1.[Na+].[OH-]>>NC(=S)Nc1c(Cl)ccc2nsnc12
+CI.CO.NC(=S)Nc1c(Cl)ccc2nsnc12>>CSC(=N)Nc1c(Cl)ccc2nsnc12~I
+CO.CSC(=[NH2+])Nc1c(Cl)ccc2nsnc12.NCCN.[I-]>>Clc1ccc2nsnc2c1NC1=NCCN1
+IBM RXN:
+CCOC(=O)N1CCN=C1Nc1c(Cl)ccc2nsnc12.O[Na]>>Clc1ccc2nsnc2c1NC1=NCCN1
+CCOC(=O)N1CCNC1=O.Nc1c(Cl)ccc2nsnc12.O=P(Cl)(Cl)Cl.c1ccncc1>>CCOC(=O)N1CCN=C1Nc1c(Cl)ccc2nsnc12
+CCOC(=O)Cl.CCOC(C)=O.O=C1NCCN1>>CCOC(=O)N1CCNC1=O
+Target Tiemonium
+Industrial:
+Br[Mg]c1ccccc1.CCOCC.O=C(CCN1CCOCC1)c1cccs1>>OC(CCN1CCOCC1)(c1ccccc1)c1cccs1
+IBM RXN:
+OC(CCBr)(c1ccccc1)c1cccs1.C1COCCN1>>OC(CCN1CCOCC1)(c1ccccc1)c1cccs1
+OCCC(O)(c1ccccc1)c1cccs1.BrC(Br)(Br)Br.ClCCl.c1ccc(P(c2ccccc2)c2ccccc2)cc1>>OC(CCBr)(c1ccccc1)c1cccs1
+CCOC(=O)CC(O)(c1ccccc1)c1cccs1.C1CCOC1.[AlH4-].[Li+]>>OCCC(O)(c1ccccc1)c1cccs1
+C1CCOC1.CCOC(C)=O.O=C(c1ccccc1)c1cccs1.[Li]CCCC>>CCOC(=O)CC(O)(c1ccccc1)c1cccs1
+Target Thiphenamil
+Industrial:
+CCN(CC)CCS.O=C(Cl)C(c1ccccc1)c1ccccc1.c1ccccc1>>CCN(CC)CCSC(=O)C(c1ccccc1)c1ccccc1
+IBM RXN:
+CCN(CC)CCCl.O=C(S)C(c1ccccc1)c1ccccc1>>CCN(CC)CCSC(=O)C(c1ccccc1)c1ccccc1
+CCNCC.ClCCBr>>CCN(CC)CCCl
+O=C(O)C(c1ccccc1)c1ccccc1.O=S(Cl)Cl.S.c1ccccc1>>O=C(S)C(c1ccccc1)c1ccccc1
+Target Sultroponium
+Industrial:
+CC(C)=O.CN1[C@H]2CC[C@@H]1CC(OC(=O)C(CO)c1ccccc1)C2.O=S1(=O)CCCO1>>C[N+]1(CCCS(=O)(=O)[O-])[C@H]2CC[C@@H]1CC(OC(=O)C(CO)c1ccccc1)C2
+IBM RXN:
+CN1[C@H]2CC[C@@H]1CC(OC(=O)C(CO)c1ccccc1)C2.O=S1(=O)CCCO1>>C[N+]1(CCCS(=O)(=O)[O-])[C@H]2CC[C@@H]1CC(OC(=O)C(CO)c1ccccc1)C2
+C1CCOC1.CN1[C@H]2CC[C@@H]1CC(O)C2.O=C(O)C(CO)c1ccccc1.O=C(n1ccnc1)n1ccnc1>>CN1[C@H]2CC[C@@H]1CC(OC(=O)C(CO)c1ccccc1)C2
+Target Suloctidil
+Industrial:
+CC(C)O.CC(C)Sc1ccc(C(=O)C(C)Br)cc1.CCCCCCCCN>>CCCCCCCCNC(C)C(=O)c1ccc(SC(C)C)cc1
+CCCCCCCCNC(C)C(=O)c1ccc(SC(C)C)cc1.CO.O.[BH4-].[Na+].[Na+].[OH-]>>CCCCCCCCNC(C)C(O)c1ccc(SC(C)C)cc1
+IBM RXN:
+CC(=O)C(O)c1ccc(SC(C)C)cc1.CCCCCCCCN.CO.[BH4-].[Na+]>>CCCCCCCCNC(C)C(O)c1ccc(SC(C)C)cc1
+CC(=O)OC(C(C)=O)c1ccc(SC(C)C)cc1.CO.O.O=C([O-])[O-].[K+].[K+]>>CC(=O)C(O)c1ccc(SC(C)C)cc1
+CC(=O)C(Br)c1ccc(SC(C)C)cc1.CC(=O)[O-].[Na+].CN(C)C=O>>CC(=O)OC(C(C)=O)c1ccc(SC(C)C)cc1
+CC(=O)Cc1ccc(SC(C)C)cc1.CC(C)(C#N)N=NC(C)(C)C#N.ClC(Cl)(Cl)Cl.O=C1CCC(=O)N1Br>>CC(=O)C(Br)c1ccc(SC(C)C)cc1
+C=C(C)OC(C)=O.CC(=O)[O-].CC(=O)[O-].[Pd+2].CC(C)Sc1ccc(Br)cc1.CC(=O)[O-].CC(=O)[O-].[Pd+2]>>CC(=O)Cc1ccc(SC(C)C)cc1
+Target Pinazepam
+Industrial:
+C#CCBr.Nc1ccc(Cl)cc1C(=O)c1ccccc1>>C#CCNc1ccc(Cl)cc1C(=O)c1ccccc1
+C#CCNc1ccc(Cl)cc1C(=O)c1ccccc1.ClC(Cl)Cl.O=C(Cl)CN1C(=O)c2ccccc2C1=O>>C#CCN(C(=O)CN1C(=O)c2ccccc2C1=O)c1ccc(Cl)cc1C(=O)c1ccccc1
+C#CCN(C(=O)CN1C(=O)c2ccccc2C1=O)c1ccc(Cl)cc1C(=O)c1ccccc1.CCO.NN.O>>C#CCN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21
+IBM RXN:
+O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1.C#CCBr.CN(C)C=O.O.O.O.[NaH]>>C#CCN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21
+NCC(=O)Nc1ccc(Cl)cc1C(=O)c1ccccc1.O.O=C([O-])O.[Na+].O=C([O-])O.[Na+]>>O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1
+Target Oxaflozane precursor
+Industrial:
+BrBr.C=COCCCl.ClC(Cl)Cl>>ClCCOC(Br)CBr
+IBM RXN:
+BrBr.C=COCCCl.ClCCl>>ClCCOC(Br)CBr
+Target Opipramol
+Industrial:
+Cc1ccccc1.Cc1ccccc1S(=O)(=O)CCCN1c2ccccc2C=Cc2ccccc21.OCCN1CCNCC1>>OCCN1CCN(CCCN2c3ccccc3C=Cc3ccccc32)CC1
+IBM RXN:
+C1=Cc2ccccc2N(CCCN2CCNCC2)c2ccccc21.OCCCl>>OCCN1CCN(CCCN2c3ccccc3C=Cc3ccccc32)CC1
+CC(C)(C)OC(=O)N1CCN(CCCN2c3ccccc3C=Cc3ccccc32)CC1.ClCCl.O=C(O)C(F)(F)F>>C1=Cc2ccccc2N(CCCN2CCNCC2)c2ccccc21
+C1=Cc2ccccc2Nc2ccccc21.CC(C)(C)OC(=O)N1CCN(CCCCl)CC1.CN(C)C=O.[H-].[Na+].[H-].[Na+]>>CC(C)(C)OC(=O)N1CCN(CCCN2c3ccccc3C=Cc3ccccc32)CC1
+Target Nortriptyline
+Industrial:
+CN.ClCCC=C1c2ccccc2CCc2ccccc21.c1ccccc1>>CNCCC=C1c2ccccc2CCc2ccccc21
+IBM RXN:
+CN.CS(=O)(=O)OCCC=C1c2ccccc2CCc2ccccc21>>CNCCC=C1c2ccccc2CCc2ccccc21
+Target Nialamide
+Industrial:
+C=CC(=O)OC.CC(=O)O.CC(C)(C)O.NNC(=O)c1ccncc1>>COC(=O)CCNNC(=O)c1ccncc1
+COC(=O)CCNNC(=O)c1ccncc1.NCc1ccccc1>>O=C(CCNNC(=O)c1ccncc1)NCc1ccccc1
+IBM RXN:
+CCOC(=O)CCNNC(=O)c1ccncc1.NCc1ccccc1>>O=C(CCNNC(=O)c1ccncc1)NCc1ccccc1
+C=CC(=O)OCC.ClCCl.NNC(=O)c1ccncc1.O>>CCOC(=O)CCNNC(=O)c1ccncc1
+Target Minaprine
+Industrial:
+CCCCO.Cc1cc(-c2ccccc2)nnc1Cl.NCCN1CCOCC1.[Cu]>>Cc1cc(-c2ccccc2)nnc1NCCN1CCOCC1
+IBM RXN:
+Cc1cc(-c2ccccc2)nnc1Cl.NCCN1CCOCC1.O=C([O-])[O-].[K+].[K+].O=C([O-])[O-].[K+].[K+]>>Cc1cc(-c2ccccc2)nnc1NCCN1CCOCC1
+Target Maprotiline precursor
+Industrial:
+O=C(O)CCc1c2ccccc2cc2ccccc12.[Al+3].[H-].[H-].[H-].[H-].[Li+]>>OCCCc1c2ccccc2cc2ccccc12
+O=S(Cl)Cl.OCCCc1c2ccccc2cc2ccccc12>>ClCCCc1c2ccccc2cc2ccccc12
+CN.ClCCCc1c2ccccc2cc2ccccc12>>CNCCCc1c2ccccc2cc2ccccc12
+IBM RXN:
+BrCCCc1c2ccccc2cc2ccccc12.CN>>CNCCCc1c2ccccc2cc2ccccc12
+Target Terfenadine
+Industrial:
+CC(C)(C)c1ccc(C(=O)CCCCl)cc1.Cc1ccccc1.O=C([O-])O.OC(c1ccccc1)(c1ccccc1)C1CCNCC1.[I-].[K+].[K+]>>CC(C)(C)c1ccc(C(=O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1
+CC(C)(C)c1ccc(C(=O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1.CO.C[O-].[BH4-].[K+].[Na+]>>CC(C)(C)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1
+IBM RXN:
+CC(C)(C)c1ccc([Mg]Br)cc1.O=CCCCN1CCC(C(O)(c2ccccc2)c2ccccc2)CC1.C1CCOC1>>CC(C)(C)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1
+CC(C)(C)c1ccc(Br)cc1.[Mg]>>CC(C)(C)c1ccc([Mg]Br)cc1
+OCCCCN1CCC(C(O)(c2ccccc2)c2ccccc2)CC1.ClCCl.O=[Cr](=O)([O-])Cl.c1cc[nH+]cc1>>O=CCCCN1CCC(C(O)(c2ccccc2)c2ccccc2)CC1
+OC(c1ccccc1)(c1ccccc1)C1CCNCC1.OCCCCBr>>OCCCCN1CCC(C(O)(c2ccccc2)c2ccccc2)CC1
+OC(c1ccccc1)(c1ccccc1)c1ccncc1.CC(=O)O.[O-2].[Pt+2]>>OC(c1ccccc1)(c1ccccc1)C1CCNCC1
+Brc1ccncc1.CCOCC.O=C(c1ccccc1)c1ccccc1.[Mg]>>OC(c1ccccc1)(c1ccccc1)c1ccncc1
+Target Etymemazine
+Industrial:
+CC(CCl)CN(C)C.CCc1ccc2c(c1)Nc1ccccc1S2.Cc1ccc(C)cc1.[NH2-].[Na+]>>CCc1ccc2c(c1)N(CC(C)CN(C)C)c1ccccc1S2
+IBM RXN:
+CCc1ccc2c(c1)Nc1ccccc1S2.CC(CCl)CN(C)C.CN(C)C=O.O.[NaH]>>CCc1ccc2c(c1)N(CC(C)CN(C)C)c1ccccc1S2
+CC(=O)c1ccc2c(c1)Nc1ccccc1S2.NN.O.OCCOCCO.[K+].[OH-].NN.O.[K+].[OH-]>>CCc1ccc2c(c1)Nc1ccccc1S2
+Target Emedastine precursor
+Industrial:
+CN1CCNCC1.Clc1nc2ccccc2[nH]1>>CN1CCN(c2nc3ccccc3[nH]2)CC1
+CCOCCBr.CN(C)C=O.CN1CCN(c2nc3ccccc3[nH]2)CC1.[H-].[Na+]>>CCOCCn1c(N2CCN(C)CC2)nc2ccccc21
+IBM RXN:
+CN1CCN(c2nc3ccccc3[nH]2)CC1.CCOCCBr.CN(C)C=O.[H-].[Na+]>>CCOCCn1c(N2CCN(C)CC2)nc2ccccc21
+CN1CCNCC1.ClC(Cl)Cl.Clc1nc2ccccc2[nH]1>>CN1CCN(c2nc3ccccc3[nH]2)CC1
+Target Ebastine
+Industrial:
+CC(=O)CC(C)C.CC(C)(C)c1ccc(C(=O)CCCCl)cc1.O=C([O-])O.OC1CCNCC1.[I-].[K+].[Na+]>>CC(C)(C)c1ccc(C(=O)CCCN2CCC(O)CC2)cc1
+BrC(c1ccccc1)c1ccccc1.CC(=O)CC(C)C.CC(C)(C)c1ccc(C(=O)CCCN2CCC(O)CC2)cc1.O=C([O-])O.[Na+]>>CC(C)(C)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1
+IBM RXN:
+CC#N.CC(C)(C)c1ccc(C(=O)CCCCl)cc1.O=C([O-])[O-].[K+].[K+].c1ccc(C(OC2CCNCC2)c2ccccc2)cc1.O=C([O-])[O-].[K+].[K+]>>CC(C)(C)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1
+Target Diphenpyraline
+Industrial:
+BrC(c1ccccc1)c1ccccc1.CN1CCC(O)CC1.Cc1ccc(C)cc1>>CN1CCC(OC(c2ccccc2)c2ccccc2)CC1
+IBM RXN:
+BrC(c1ccccc1)c1ccccc1.C1CCOC1.CN1CCC(O)CC1.[NaH]>>CN1CCC(OC(c2ccccc2)c2ccccc2)CC1
+Target Diphenhydramine
+Industrial:
+BrC(c1ccccc1)c1ccccc1.CN(C)CCO.O=C([O-])[O-].[Na+].[Na+].c1ccccc1>>CN(C)CCOC(c1ccccc1)c1ccccc1
+IBM RXN:
+BrC(c1ccccc1)c1ccccc1.C1CCOC1.CN(C)CCO.[NaH]>>CN(C)CCOC(c1ccccc1)c1ccccc1
+Target Clorexolone precursor
+Industrial:
+CCCCCO.NC1CCCCC1.O=C1NC(=O)c2cc(Cl)ccc21>>O=C1c2ccc(Cl)cc2C(=O)N1C1CCCCC1
+IBM RXN:
+NC1CCCCC1.O=C1OC(=O)c2cc(Cl)ccc21>>O=C1c2ccc(Cl)cc2C(=O)N1C1CCCCC1
+Target Clopamide
+Industrial:
+C[C@H]1CCC[C@@H](C)N1N.Cl.Clc1ccccc1.O=C(Cl)c1ccc(Cl)c(S(=O)(=O)Cl)c1>>C[C@H]1CCC[C@@H](C)N1NC(=O)c1ccc(Cl)c(S(=O)(=O)Cl)c1
+C[C@H]1CCC[C@@H](C)N1NC(=O)c1ccc(Cl)c(S(=O)(=O)Cl)c1.N.O>>C[C@H]1CCC[C@@H](C)N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1
+IBM RXN:
+C[C@H]1CCC[C@@H](C)N1N.CCN(CC)CC.ClCCl.NS(=O)(=O)c1cc(C(=O)Cl)ccc1Cl>>C[C@H]1CCC[C@@H](C)N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1
+C[C@H]1CCC[C@@H](C)N1N=O.C1CCOC1.[Al+3].[H-].[H-].[H-].[H-].[Li+]>>C[C@H]1CCC[C@@H](C)N1N
+C[C@H]1CCC[C@@H](C)N1.Cl.O.O=N[O-].[Na+].O=N[O-].[Na+]>>C[C@H]1CCC[C@@H](C)N1N=O
+Target Azosemide
+Industrial:
+C1CCOC1.N#Cc1cc(S(N)(=O)=O)c(Cl)cc1F.NCc1cccs1>>N#Cc1cc(S(N)(=O)=O)c(Cl)cc1NCc1cccs1
+N#Cc1cc(S(N)(=O)=O)c(Cl)cc1NCc1cccs1.[Cl-].[N-]=[N+]=[N-].[NH4+].[Na+]>>NS(=O)(=O)c1cc(-c2nnn[nH]2)c(NCc2cccs2)cc1Cl
+IBM RXN:
+NS(=O)(=O)c1cc(-c2nnn[nH]2)c(F)cc1Cl.NCc1cccs1>>NS(=O)(=O)c1cc(-c2nnn[nH]2)c(NCc2cccs2)cc1Cl
+N#Cc1cc(S(N)(=O)=O)c(Cl)cc1F.Cc1ccccc1.[N-]=[N+]=[N-].[Na+]>>NS(=O)(=O)c1cc(-c2nnn[nH]2)c(F)cc1Cl
+NS(=O)(=O)c1cc(Br)c(F)cc1Cl.CN(C)C=O.N#C[Cu]>>N#Cc1cc(S(N)(=O)=O)c(Cl)cc1F
+O=S(=O)(Cl)c1cc(Br)c(F)cc1Cl.[NH4+].[OH-].[NH4+].[OH-]>>NS(=O)(=O)c1cc(Br)c(F)cc1Cl
+Target Azolimine
+Industrial:
+CNC(=O)CCl.N#CNc1ccccc1.O.[Na+].[OH-]>>CN1C(=N)N(c2ccccc2)CC1=O
+IBM RXN:
+CN1C(=O)CN(c2ccccc2)C1=NC(=O)OC(C)(C)C.O=C(O)C(F)(F)F>>CN1C(=N)N(c2ccccc2)CC1=O
+CC(C)(C)OC(=O)N=C1NC(=O)CN1c1ccccc1.CCOC(C)=O.CI.CN(C)C=O.[NaH]>>CN1C(=O)CN(c2ccccc2)C1=NC(=O)OC(C)(C)C
+N=C1NC(=O)CN1c1ccccc1.CC(C)(C)OC(=O)OC(=O)OC(C)(C)C.ClCCl>>CC(C)(C)OC(=O)N=C1NC(=O)CN1c1ccccc1
+COC(=O)CN(C#N)c1ccccc1.CCO.N>>N=C1NC(=O)CN1c1ccccc1
+CN(C)C=O.COC(=O)CBr.N#CNc1ccccc1.[NaH]>>COC(=O)CN(C#N)c1ccccc1
+Target Amisometradine
+Industrial:
+C=C(C)CN.CN=C=O.c1ccccc1>>C=C(C)CNC(=O)NC
+C=C(C)CNC(=O)NC.CC(=O)OC(C)=O.N#CCC(=O)O>>C=C(C)Cn1c(N)cc(=O)n(C)c1=O
+IBM RXN:
+C=C(C)CBr.CN(C)C=O.Cn1c(=O)cc(N)[nH]c1=O.O=C([O-])[O-].[K+].[K+].O=C([O-])[O-].[K+].[K+]>>C=C(C)Cn1c(N)cc(=O)n(C)c1=O
+Target Aminometradine
+Industrial:
+C=CCNC(N)=O.CC(=O)OC(C)=O.N#CCC(=O)O>>C=CCNC(=O)NC(=O)CC#N
+C=CCNC(=O)NC(=O)CC#N.O.[Na+].[OH-]>>C=CCn1c(N)cc(=O)[nH]c1=O
+C=CCn1c(N)cc(=O)[nH]c1=O.CCOS(=O)(=O)OCC.O.[Na+].[OH-]>>C=CCn1c(N)cc(=O)n(CC)c1=O
+IBM RXN:
+C=CCn1c(N)cc(=O)[nH]c1=O.CCI.CN(C)C=O.O=C([O-])[O-].[K+].[K+]>>C=CCn1c(N)cc(=O)n(CC)c1=O
+C=CCNC(N)=O.CCO.CCOC(=O)CC#N.CCO[Na]>>C=CCn1c(N)cc(=O)[nH]c1=O
+Target Promestriene precursor
+Industrial:
+CCCBr.CCO.CC[O-].C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O.[Na+]>>CCCOc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12
+IBM RXN:
+C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O.CCCBr.O=C([O-])[O-].[K+].[K+]>>CCCOc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12
+BrB(Br)Br.COc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12.ClCCl.O>>C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O
+Target Miconazole
+Industrial:
+O=C(CBr)c1ccc(Cl)cc1Cl.c1c[nH]cn1>>O=C(Cn1ccnc1)c1ccc(Cl)cc1Cl
+O=C(Cn1ccnc1)c1ccc(Cl)cc1Cl.[BH4-].[Na+]>>OC(Cn1ccnc1)c1ccc(Cl)cc1Cl
+C1CCOC1.CN(C)C=O.ClCc1ccc(Cl)cc1Cl.OC(Cn1ccnc1)c1ccc(Cl)cc1Cl.[H-].[Na+]>>Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1
+IBM RXN:
+Clc1ccc(COC(CBr)c2ccc(Cl)cc2Cl)c(Cl)c1.CN(C)C=O.[NaH].c1c[nH]cn1>>Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1
+CN(C)C=O.ClCc1ccc(Cl)cc1Cl.OC(CBr)c1ccc(Cl)cc1Cl.[H-].[Na+].[H-].[Na+]>>Clc1ccc(COC(CBr)c2ccc(Cl)cc2Cl)c(Cl)c1
+Target Isoconazole
+Industrial:
+CN(C)C=O.ClCc1c(Cl)cccc1Cl.OC(Cn1ccnc1)c1ccc(Cl)cc1Cl.[H-].[Na+].c1ccccc1>>Clc1ccc(C(Cn2ccnc2)OCc2c(Cl)cccc2Cl)c(Cl)c1
+IBM RXN:
+ClCC(OCc1c(Cl)cccc1Cl)c1ccc(Cl)cc1Cl.CN(C)C=O.[NaH].c1c[nH]cn1>>Clc1ccc(C(Cn2ccnc2)OCc2c(Cl)cccc2Cl)c(Cl)c1
+OCC(OCc1c(Cl)cccc1Cl)c1ccc(Cl)cc1Cl.O=S(Cl)Cl.c1ccncc1>>ClCC(OCc1c(Cl)cccc1Cl)c1ccc(Cl)cc1Cl
+COC(=O)C(OCc1c(Cl)cccc1Cl)c1ccc(Cl)cc1Cl.C1CCOC1.[AlH4-].[Li+]>>OCC(OCc1c(Cl)cccc1Cl)c1ccc(Cl)cc1Cl
+CN(C)C=O.COC(=O)C(O)c1ccc(Cl)cc1Cl.Clc1cccc(Cl)c1CBr.[NaH]>>COC(=O)C(OCc1c(Cl)cccc1Cl)c1ccc(Cl)cc1Cl
+Target Flucytosine precursor
+Industrial:
+CN(C)c1ccccc1.O=P(Cl)(Cl)Cl.O=c1[nH]cc(F)c(=O)[nH]1>>Fc1cnc(Cl)nc1Cl
+CCO.Fc1cnc(Cl)nc1Cl.N.O>>Nc1nc(Cl)ncc1F
+IBM RXN:
+Fc1cnc(Cl)nc1Cl.CCO.[NH4+].[OH-]>>Nc1nc(Cl)ncc1F
+O=P(Cl)(Cl)Cl.Oc1ncc(F)c(O)n1>>Fc1cnc(Cl)nc1Cl
+Target Fluconazole precursor
+Industrial:
+Fc1cccc(F)c1.O=C(Cl)CCl.[Al+3].[Cl-].[Cl-].[Cl-]>>O=C(CCl)c1ccc(F)cc1F
+IBM RXN:
+CC(=O)c1ccc(F)cc1F.ClCCl.O=S(=O)(Cl)Cl>>O=C(CCl)c1ccc(F)cc1F
+Target Fenticlor
+Industrial:
+Clc1ccccc1Cl.O=S(=O)(Cl)Cl.O=S(=O)(Cl)Cl.Oc1ccccc1Sc1ccccc1O>>Oc1ccc(Cl)cc1Sc1cc(Cl)ccc1O
+IBM RXN:
+Oc1ccc(Cl)cc1I.Oc1ccc(Cl)cc1S>>Oc1ccc(Cl)cc1Sc1cc(Cl)ccc1O
+Target Exalamide
+Industrial:
+CCCCCCBr.CCO.NC(=O)c1ccccc1O.[Na]>>CCCCCCOc1ccccc1C(N)=O
+IBM RXN:
+CCCCCCBr.NC(=O)c1ccccc1O>>CCCCCCOc1ccccc1C(N)=O
+Target Econazole precursor
+Industrial:
+C1CCOC1.OC(Cn1ccnc1)c1ccc(Cl)cc1Cl.[H-].[Na+]>>COC(Cn1ccnc1)c1ccc(Cl)cc1Cl
+IBM RXN:
+CI.OC(Cn1ccnc1)c1ccc(Cl)cc1Cl.[NaH]>>COC(Cn1ccnc1)c1ccc(Cl)cc1Cl
+Target Ethaverine precursor
+Industrial:
+CCOc1ccc(C(O)CN)cc1OCC.CCOc1ccc(CC(=O)Cl)cc1OCC>>CCOc1ccc(CC(=O)NCC(O)c2ccc(OCC)c(OCC)c2)cc1OCC
+IBM RXN:
+CCOc1ccc(CC(=O)NCC(=O)c2ccc(OCC)c(OCC)c2)cc1OCC.CCO.[BH4-].[Na+]>>CCOc1ccc(CC(=O)NCC(O)c2ccc(OCC)c(OCC)c2)cc1OCC
+CCOc1ccc(C(=O)CN)cc1OCC.CCOc1ccc(CC(=O)Cl)cc1OCC>>CCOc1ccc(CC(=O)NCC(=O)c2ccc(OCC)c(OCC)c2)cc1OCC
+Target Lidocaine
+Industrial:
+CC(=O)O.CC(=O)[O-].Cc1cccc(C)c1N.O.O=C(Cl)CCl.[Na+]>>Cc1cccc(C)c1NC(=O)CCl
+CCNCC.Cc1cccc(C)c1NC(=O)CCl.c1ccccc1>>CCN(CC)CC(=O)Nc1c(C)cccc1C
+IBM RXN:
+CCNCC.Cc1cccc(C)c1NC(=O)CBr>>CCN(CC)CC(=O)Nc1c(C)cccc1C
+Target Lorcainide
+Industrial:
+CC(C)Br.CCCCO.O=C(Cc1ccccc1)N(c1ccc(Cl)cc1)C1CCNCC1.O=C([O-])[O-].[I-].[K+].[Na+].[Na+]>>CC(C)N1CCC(N(C(=O)Cc2ccccc2)c2ccc(Cl)cc2)CC1
+IBM RXN:
+O=C(Cc1ccccc1)N(c1ccc(Cl)cc1)C1CCNCC1.CC(C)=O.[BH3-]C#N.[Na+]>>CC(C)N1CCC(N(C(=O)Cc2ccccc2)c2ccc(Cl)cc2)CC1
+O=C(Cc1ccccc1)N(c1ccc(Cl)cc1)C1CCN(Cc2ccccc2)CC1.[H][H].[Pd]>>O=C(Cc1ccccc1)N(c1ccc(Cl)cc1)C1CCNCC1
+Clc1ccc(NC2CCN(Cc3ccccc3)CC2)cc1.O=C(Cl)Cc1ccccc1.c1ccncc1>>O=C(Cc1ccccc1)N(c1ccc(Cl)cc1)C1CCN(Cc2ccccc2)CC1
+Target Mexiletine
+Industrial:
+C/C(COc1c(C)cccc1C)=N\O.CO.[H][H].[Ni]>>Cc1cccc(C)c1OCC(C)N
+IBM RXN:
+CC(=O)COc1c(C)cccc1C.CC(=O)[O-].[NH4+].CO.[BH3-]C#N.[Na+].CC(=O)[O-].[NH4+].[BH3-]C#N.[Na+]>>Cc1cccc(C)c1OCC(C)N
+Target Moricizine
+Industrial:
+CCOC(=O)Nc1ccc2c(c1)Nc1ccccc1S2.Cc1ccccc1.O=C(Cl)CCCl>>CCOC(=O)Nc1ccc2c(c1)N(C(=O)CCCl)c1ccccc1S2
+C1COCCN1.CCOC(=O)Nc1ccc2c(c1)N(C(=O)CCCl)c1ccccc1S2.Cc1ccccc1>>CCOC(=O)Nc1ccc2c(c1)N(C(=O)CCN1CCOCC1)c1ccccc1S2
+IBM RXN:
+Nc1ccc2c(c1)N(C(=O)CCN1CCOCC1)c1ccccc1S2.CCN(CC)CC.CCOC(=O)Cl.ClCCl>>CCOC(=O)Nc1ccc2c(c1)N(C(=O)CCN1CCOCC1)c1ccccc1S2
+O=C(CCN1CCOCC1)N1c2ccccc2Sc2ccc([N+](=O)[O-])cc21.C1CCOC1.[H][H].[Pd]>>Nc1ccc2c(c1)N(C(=O)CCN1CCOCC1)c1ccccc1S2
+C=CC(=O)N1c2ccccc2Sc2ccc([N+](=O)[O-])cc21.C1CCOC1.C1COCCN1>>O=C(CCN1CCOCC1)N1c2ccccc2Sc2ccc([N+](=O)[O-])cc21
+C=CC(=O)Cl.ClCCl.O=[N+]([O-])c1ccc2c(c1)Nc1ccccc1S2>>C=CC(=O)N1c2ccccc2Sc2ccc([N+](=O)[O-])cc21
+Target Phenobarbital
+Industrial:
+CCO.CCOC(=O)C(CC)(C(=O)OCC)c1ccccc1.NC(N)=O.[Na]>>CCC1(c2ccccc2)C(=O)NC(=O)NC1=O
+IBM RXN:
+CCC(C#N)(C(=O)OC)c1ccccc1.CCO.Cl.NC(N)=O.[Na]>>CCC1(c2ccccc2)C(=O)NC(=O)NC1=O
+CCI.CN(C)C=O.COC(=O)C(C#N)c1ccccc1.[NaH]>>CCC(C#N)(C(=O)OC)c1ccccc1
+Target Prothipendyl
+Industrial:
+CN(C)CCCCl.Cc1ccccc1.[NH2-].[Na+].c1ccc2c(c1)Nc1ncccc1S2>>CN(C)CCCN1c2ccccc2Sc2cccnc21
+IBM RXN:
+CN(C)CCCCl.[H-].[Na+].c1ccc2c(c1)Nc1ncccc1S2.[H-].[Na+]>>CN(C)CCCN1c2ccccc2Sc2cccnc21
+Target Trimetozine
+Industrial:
+C1COCCN1.CCN(CC)CC.COc1cc(C(=O)Cl)cc(OC)c1OC.c1ccccc1>>COc1cc(C(=O)N2CCOCC2)cc(OC)c1OC
+IBM RXN:
+C1COCCN1.COc1cc(C(=O)Cl)cc(OC)c1OC>>COc1cc(C(=O)N2CCOCC2)cc(OC)c1OC
+Target Zopiclone
+Industrial:
+CN(C)C=O.CN1CCN(C(=O)Cl)CC1.O=C1c2nccnc2C(O)N1c1ccc(Cl)cn1.[NaH]>>CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1
+IBM RXN:
+CN1CCN(C(=O)Cl)CC1.O=C1c2nccnc2C(O)N1c1ccc(Cl)cn1>>CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1
+Target Aprobarbital
+Industrial:
+C=CCBr.CC(C)C1C(=O)NC(=O)NC1=O.O.[Na+].[OH-]>>C=CCC1(C(C)C)C(=O)NC(=O)NC1=O
+IBM RXN:
+CC(C)C1C(=O)NC(=O)NC1=O.C1CCOC1.C=CCBr.CC(C)[N-]C(C)C.[Li+]>>C=CCC1(C(C)C)C(=O)NC(=O)NC1=O
+CCO.CCOC(=O)C(C(=O)OCC)C(C)C.NC(N)=O.[Na]>>CC(C)C1C(=O)NC(=O)NC1=O
+Target Azaperone
+Industrial:
+O=C(CCCCl)c1ccc(F)cc1.c1ccc(N2CCNCC2)nc1>>O=C(CCCN1CCN(c2ccccn2)CC1)c1ccc(F)cc1
+IBM RXN:
+O=C(CCCCl)c1ccc(F)cc1.c1ccc(N2CCNCC2)nc1>>O=C(CCCN1CCN(c2ccccn2)CC1)c1ccc(F)cc1
+Target Chlorobutanol
+Industrial:
+CC(C)=O.ClC(Cl)Cl.[K+].[OH-]>>CC(C)(O)C(Cl)(Cl)Cl
+IBM RXN:
+CCOC(=O)C(Cl)(Cl)Cl.C[Mg]Br>>CC(C)(O)C(Cl)(Cl)Cl
+Target Estazolam
+Industrial:
+CCCCO.NNC=O.S=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1>>Clc1ccc2c(c1)C(c1ccccc1)=NCc1nncn1-2
+IBM RXN:
+COC(OC)OC.NNC1=Nc2ccc(Cl)cc2C(c2ccccc2)=NC1.O>>Clc1ccc2c(c1)C(c1ccccc1)=NCc1nncn1-2
+Target Etodroxizine precursor
+Industrial:
+Clc1ccc(C(Cl)c2ccccc2)cc1.OCCN1CCNCC1>>OCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1
+O=S(Cl)Cl.OCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1.c1ccccc1>>ClCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1
+IBM RXN:
+CC#N.ClCCBr.Clc1ccc(C(c2ccccc2)N2CCNCC2)cc1.O=C([O-])[O-].[K+].[K+].O=C([O-])[O-].[K+].[K+]>>ClCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1
+Target Glutethimide precursor
+Industrial:
+C=CC(=O)OC.CCC(C#N)c1ccccc1>>CCC(C#N)(CCC(=O)OC)c1ccccc1
+IBM RXN:
+C1CCC2=NCCCN2CC1.C=CC(=O)OC.CC#N.CCC(C#N)c1ccccc1>>CCC(C#N)(CCC(=O)OC)c1ccccc1
+Target Heptabarbital
+Industrial:
+C1CCNCC1.COC(=O)CC#N.O=C1CCCCCC1>>COC(=O)C(C#N)=C1CCCCCC1
+CCBr.CCO.COC(=O)C(C#N)=C1CCCCCC1.[Na]>>CCC(C#N)(C(=O)OC)C1=CCCCCC1
+CCC(C#N)(C(=O)OC)C1=CCCCCC1.CCO.NC(N)=O.[Na]>>CCC1(C2=CCCCCC2)C(=O)NC(=O)NC1=O
+IBM RXN:
+ClC1=CCCCCC1.CCC1C(=O)NC(=O)NC1=O>>CCC1(C2=CCCCCC2)C(=O)NC(=O)NC1=O
+OC1CCCCCC1Cl.Cc1ccc(S(=O)(=O)O)cc1>>ClC1=CCCCCC1
+O=C1CCCCCC1Cl.[BH4-].[Na+].[BH4-].[Na+]>>OC1CCCCCC1Cl
+Target Nevirapine precursor
+Industrial:
+COCCOCCOC.Cc1ccnc(Cl)c1NC(=O)c1cccnc1Cl.NC1CC1.[Ca+2].[O-2]>>Cc1ccnc(Cl)c1NC(=O)c1cccnc1NC1CC1
+IBM RXN:
+O=C(Cl)c1cccnc1NC1CC1.Cc1ccnc(Cl)c1N>>Cc1ccnc(Cl)c1NC(=O)c1cccnc1NC1CC1
+O=C(O)c1cccnc1NC1CC1.O=S(Cl)Cl>>O=C(Cl)c1cccnc1NC1CC1
+Target Penciclovir precursor
+Industrial:
+BrC(Br)(Br)Br.CC1(C)OCC(CCO)CO1.CN(C)C=O.c1ccc(P(c2ccccc2)c2ccccc2)cc1>>CC1(C)OCC(CCBr)CO1
+CC1(C)OCC(CCBr)CO1.CN(C)C=O.Nc1nc(Cl)c2[nH]cnc2n1.O=C([O-])[O-].[K+].[K+]>>CC1(C)OCC(CCn2cnc3c(Cl)nc(N)nc32)CO1
+IBM RXN:
+CC1(C)OCC(CCBr)CO1.CN(C)C=O.Nc1nc(Cl)c2[nH]cnc2n1.O.O=C([O-])[O-].[K+].[K+]>>CC1(C)OCC(CCn2cnc3c(Cl)nc(N)nc32)CO1
+OCC(CO)CCBr.CC(C)=O.COC(C)(C)OC.Cc1ccc(S(=O)(=O)O)cc1.O>>CC1(C)OCC(CCBr)CO1
+COC(=O)C(CCBr)C(=O)OC.[AlH4-].[Li+]>>OCC(CO)CCBr
+COC(=O)C(CCO)C(=O)OC.BrC(Br)(Br)Br.ClCCl.c1ccc(P(c2ccccc2)c2ccccc2)cc1>>COC(=O)C(CCBr)C(=O)OC
+C=CCC(C(=O)OC)C(=O)OC.O=[O+][O-].[BH4-].[Na+].[BH4-].[Na+]>>COC(=O)C(CCO)C(=O)OC
+Target Procaine
+Industrial:
+O=C(Cl)c1ccc([N+](=O)[O-])cc1.OCCCl>>O=C(OCCCl)c1ccc([N+](=O)[O-])cc1
+CCNCC.O=C(OCCCl)c1ccc([N+](=O)[O-])cc1>>CCN(CC)CCOC(=O)c1ccc([N+](=O)[O-])cc1
+CCN(CC)CCOC(=O)c1ccc([N+](=O)[O-])cc1.Cl.[Sn]>>CCN(CC)CCOC(=O)c1ccc(N)cc1
+IBM RXN:
+CCN(CC)CCOC(=O)c1ccc([N+](=O)[O-])cc1.CCO.[H][H].[Pd]>>CCN(CC)CCOC(=O)c1ccc(N)cc1
+CCN(CC)CCO.O=C(O)c1ccc([N+](=O)[O-])cc1>>CCN(CC)CCOC(=O)c1ccc([N+](=O)[O-])cc1
+CCNCC.ClCCl.OCCBr>>CCN(CC)CCO
+Target Trifluorothymidine precursor
+Industrial:
+CC(C)NC(C)C.CO.O=C(OC[C@H]1O[C@@H](n2cc(C(F)(F)F)c(=O)[nH]c2=O)C[C@@H]1OC(=O)c1ccc([N+](=O)[O-])cc1)c1ccc([N+](=O)[O-])cc1>>O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1C(F)(F)F
+IBM RXN:
+CC(=O)OC[C@H]1O[C@@H](n2cc(C(F)(F)F)c(=O)[nH]c2=O)C[C@@H]1OC(C)=O.CO.C[O-].[Na+]>>O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1C(F)(F)F
+CC(=O)OC[C@H]1O[C@@H](n2ccc(=O)[nH]c2=O)C[C@@H]1OC(C)=O.FC(F)(F)I.O=S(=O)(O)O.OO>>CC(=O)OC[C@H]1O[C@@H](n2cc(C(F)(F)F)c(=O)[nH]c2=O)C[C@@H]1OC(C)=O
+Target Tromantidine
+Industrial:
+CN(C)CCO.Cc1ccc(C)cc1.O=C(CCl)NC12CC3CC(CC(C3)C1)C2.[Na]>>CN(C)CCOCC(=O)NC12CC3CC(CC(C3)C1)C2
+IBM RXN:
+C1CCOC1.CN(C)CCO.O=C(CBr)NC12CC3CC(CC(C3)C1)C2.[NaH]>>CN(C)CCOCC(=O)NC12CC3CC(CC(C3)C1)C2
+Target Adiphenine precursor
+Industrial:
+O=C(O)C(c1ccccc1)c1ccccc1.O=S(Cl)Cl>>O=C(Cl)C(c1ccccc1)c1ccccc1
+IBM RXN:
+O=C(Cl)C(=O)Cl.O=C(O)C(c1ccccc1)c1ccccc1>>O=C(Cl)C(c1ccccc1)c1ccccc1
+Target Afloqualone
+Industrial:
+C1CCOC1.Cc1ccccc1NC(=O)c1cc([N+](=O)[O-])ccc1N.O=C(Cl)CF.c1ccncc1>>Cc1ccccc1NC(=O)c1cc([N+](=O)[O-])ccc1NC(=O)CF
+CC(=O)O.CC(=O)OC(C)=O.Cc1ccccc1NC(=O)c1cc([N+](=O)[O-])ccc1NC(=O)CF>>Cc1ccccc1-n1c(CF)nc2ccc([N+](=O)[O-])cc2c1=O
+CC(=O)O.Cc1ccccc1-n1c(CF)nc2ccc([N+](=O)[O-])cc2c1=O.[H][H].[Pd]>>Cc1ccccc1-n1c(CF)nc2ccc(N)cc2c1=O
+IBM RXN:
+Cc1ccccc1-n1c(CF)nc2ccc([N+](=O)[O-])cc2c1=O.C1CCOC1.[Pd]>>Cc1ccccc1-n1c(CF)nc2ccc(N)cc2c1=O
+Cc1ccccc1NC(=O)c1cc([N+](=O)[O-])ccc1NC(=O)CF.CC(=O)O>>Cc1ccccc1-n1c(CF)nc2ccc([N+](=O)[O-])cc2c1=O
+Cc1ccccc1NC(=O)c1cc([N+](=O)[O-])ccc1N.O=C(Cl)CF.c1ccncc1>>Cc1ccccc1NC(=O)c1cc([N+](=O)[O-])ccc1NC(=O)CF
+Target Ambenoxan
+Industrial:
+COCCOCCCl.NCC1COc2ccccc2O1>>COCCOCCNCC1COc2ccccc2O1
+IBM RXN:
+BrCC1COc2ccccc2O1.COCCOCCN>>COCCOCCNCC1COc2ccccc2O1
+Target Chlorphenesin carbamate precursor
+Industrial:
+CCN(CC)CC.O=C(Cl)Cl.OCC(O)COc1ccc(Cl)cc1.c1ccccc1>>O=C1OCC(COc2ccc(Cl)cc2)O1
+IBM RXN:
+O=C1OCC(CBr)O1.CN(C)C=O.O.Oc1ccc(Cl)cc1.[NaH]>>O=C1OCC(COc2ccc(Cl)cc2)O1
+Cc1ccccc1.O=C(OC(Cl)(Cl)Cl)OC(Cl)(Cl)Cl.OCC(O)CBr>>O=C1OCC(CBr)O1
+Target Chlorproethazine
+Industrial:
+CCN(CC)CCCNc1cc(Cl)ccc1Sc1ccccc1Br.CN(C)C=O.O=C([O-])[O-].[Cu].[K+].[K+]>>CCN(CC)CCCN1c2ccccc2Sc2ccc(Cl)cc21
+IBM RXN:
+CCN(CC)CCCCl.Clc1ccc2c(c1)Nc1ccccc1S2.O.[Na+].[OH-].[Na+].[OH-]>>CCN(CC)CCCN1c2ccccc2Sc2ccc(Cl)cc21
+Target Esmolol
+Industrial:
+CC(C)=O.COC(=O)CCc1ccc(O)cc1.ClCC1CO1.O=C([O-])[O-].[K+].[K+]>>COC(=O)CCc1ccc(OCC2CO2)cc1
+CC(C)N.CO.COC(=O)CCc1ccc(OCC2CO2)cc1>>COC(=O)CCc1ccc(OCC(O)CNC(C)C)cc1
+IBM RXN:
+COC(=O)CCc1ccc(OCC2CO2)cc1.C1CCOC1.CC(C)N>>COC(=O)CCc1ccc(OCC(O)CNC(C)C)cc1
+COC(=O)CCc1ccc(O)cc1.ClCC1CO1.O=C([O-])[O-].[K+].[K+].O=C([O-])[O-].[K+].[K+]>>COC(=O)CCc1ccc(OCC2CO2)cc1
+Target Indenolol
+Industrial:
+CC(C)=O.ClCC1CO1.O=C([O-])[O-].Oc1cccc2c1C=CC2.[K+].[K+]>>C1=Cc2c(cccc2OCC2CO2)C1
+C1=Cc2c(cccc2OCC2CO2)C1.CC(C)N.CO>>CC(C)NCC(O)COc1cccc2c1C=CC2
+IBM RXN:
+C1=Cc2c(cccc2OCC2CO2)C1.CC(C)N>>CC(C)NCC(O)COc1cccc2c1C=CC2
+Oc1cccc2c1C=CC2.BrCC1CO1.CN(C)C=O.[H-].[Na+]>>C1=Cc2c(cccc2OCC2CO2)C1
+COc1cccc2c1C=CC2.Cl.c1ccncc1>>Oc1cccc2c1C=CC2
+COc1cccc2c1C(O)CC2.Cc1ccc(S(=O)(=O)O)cc1.Cc1ccccc1>>COc1cccc2c1C=CC2
+CO.COc1cccc2c1C(=O)CC2.[BH4-].[Na+].[Cl-].[NH4+].[BH4-].[Na+].[Cl-].[NH4+]>>COc1cccc2c1C(O)CC2
+Target Labetalol
+Industrial:
+CC(CCc1ccccc1)NCc1ccccc1.CCC(C)=O.NC(=O)c1cc(C(=O)CBr)ccc1O>>CC(CCc1ccccc1)N(Cc1ccccc1)CC(O)c1ccc(O)c(C(N)=O)c1
+CC(CCc1ccccc1)N(Cc1ccccc1)CC(O)c1ccc(O)c(C(N)=O)c1.CCO.[H][H].[Pd].[Pt]>>CC(CCc1ccccc1)NCC(O)c1ccc(O)c(C(N)=O)c1
+IBM RXN:
+NC(=O)c1cc(C2CO2)ccc1O.CC(N)CCc1ccccc1.CCO>>CC(CCc1ccccc1)NCC(O)c1ccc(O)c(C(N)=O)c1
+C=Cc1ccc(O)c(C(N)=O)c1.ClCCl.O=C(OO)c1cccc(Cl)c1>>NC(=O)c1cc(C2CO2)ccc1O
+C=C[Sn](CCCC)(CCCC)CCCC.Cc1ccccc1.Cl[Pd](Cl)([P](c1ccccc1)(c1ccccc1)c1ccccc1)[P](c1ccccc1)(c1ccccc1)c1ccccc1.NC(=O)c1cc(Br)ccc1O>>C=Cc1ccc(O)c(C(N)=O)c1
+Target Mepindolol
+Industrial:
+Cc1cc2c(O)cccc2[nH]1.ClCC1CO1.O.[Na+].[OH-]>>Cc1cc2c(OCC3CO3)cccc2[nH]1
+C1COCCO1.CC(C)N.Cc1cc2c(OCC3CO3)cccc2[nH]1>>Cc1cc2c(OCC(O)CNC(C)C)cccc2[nH]1
+IBM RXN:
+Cc1cc2c(OCC3CO3)cccc2[nH]1.CC(C)N.CCO>>Cc1cc2c(OCC(O)CNC(C)C)cccc2[nH]1
+CCO.Cc1cc2c(O)cccc2[nH]1.ClCC1CO1.O[Na]>>Cc1cc2c(OCC3CO3)cccc2[nH]1
+Target Metoprolol
+Industrial:
+COCCc1ccc(O)cc1.ClCC1CO1>>COCCc1ccc(OCC2CO2)cc1
+CC(C)N.CC(C)O.COCCc1ccc(OCC2CO2)cc1>>COCCc1ccc(OCC(O)CNC(C)C)cc1
+IBM RXN:
+COCCc1ccc(OCC2CO2)cc1.C1CCOC1.CC(C)N>>COCCc1ccc(OCC(O)CNC(C)C)cc1
+COCCc1ccc(O)cc1.ClCC1CO1.O.O[Na]>>COCCc1ccc(OCC2CO2)cc1
+Target Phenyltheophylline precursor
+Industrial:
+Cn1c(=O)[nH]c(=O)c2[nH]cnc21.NOS(=O)(=O)O.[OH-]>>Cn1c(=O)[nH]c(=O)c2c1ncn2N
+IBM RXN:
+Cn1c(=O)[nH]c(=O)c2[nH]cnc21.NOP(=O)(Oc1ccccc1)Oc1ccccc1>>Cn1c(=O)[nH]c(=O)c2c1ncn2N
+Target Rimantadine precursor
+Industrial:
+CC(=O)C12CC3CC(CC(C3)C1)C2.CC(N)=O.O=CO>>CC(=O)NC(C)C12CC3CC(CC(C3)C1)C2
+IBM RXN:
+CC(N)C12CC3CC(CC(C3)C1)C2.CC(=O)O.CC(=O)OC(C)=O>>CC(=O)NC(C)C12CC3CC(CC(C3)C1)C2
+CC(=O)C12CC3CC(CC(C3)C1)C2.CO.N.[H][H].[Ni]>>CC(N)C12CC3CC(CC(C3)C1)C2
+Target Piromidic acid precursor
+Industrial:
+CCOC=C(C(=O)OCC)C(=O)OCC.CSc1nccc(N)n1>>CCOC(=O)C(=CNc1ccnc(SC)n1)C(=O)OCC
+IBM RXN:
+CCO.CCOC=C(C(=O)OCC)C(=O)OCC.CSc1nccc(N)n1>>CCOC(=O)C(=CNc1ccnc(SC)n1)C(=O)OCC
+Target Supiride
+Industrial:
+CCN1CCCC1CN.COc1ccc(S(N)(=O)=O)cc1C(=O)O>>CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC
+IBM RXN:
+CCN1CCCC1CNC(=O)c1cc(S(=O)(=O)Cl)ccc1OC.[NH4+].[OH-]>>CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC
+CCN1CCCC1CNC(=O)c1ccccc1OC.O=S(=O)(O)Cl>>CCN1CCCC1CNC(=O)c1cc(S(=O)(=O)Cl)ccc1OC
+CCN1CCCC1CN.COc1ccccc1C(=O)O>>CCN1CCCC1CNC(=O)c1ccccc1OC
+Target Furosemide
+Industrial:
+COCCOCCOC.NCc1ccco1.NS(=O)(=O)c1cc(C(=O)O)c(Cl)cc1Cl>>NS(=O)(=O)c1cc(C(=O)O)c(NCc2ccco2)cc1Cl
+IBM RXN:
+NCc1ccco1.NS(=O)(=O)c1cc(C(=O)O)c(F)cc1Cl.O>>NS(=O)(=O)c1cc(C(=O)O)c(NCc2ccco2)cc1Cl
+Target Phenyramidol
+Industrial:
+Cc1ccccc1.Nc1ccccn1.[Li+].[NH2-].c1ccc(C2CO2)cc1>>OC(CNc1ccccn1)c1ccccc1
+IBM RXN:
+Brc1ccccn1.NCC(O)c1ccccc1.O>>OC(CNc1ccccn1)c1ccccc1
+Target Oxybutynin
+Industrial:
+CCCCCCC.CCN(CC)CC#CCOC(C)=O.COC(=O)C(O)(c1ccccc1)C1CCCCC1.C[O-].[Na+]>>CCN(CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1
+IBM RXN:
+CCN(CC)CC#CCO.CCOC(=O)C(O)(c1ccccc1)C1CCCCC1.Cc1ccccc1>>CCN(CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1
