@@ -9,3 +9,6 @@ Create a Python file named ``api_info.py`` in the ``rxn4chemistry`` directory, a
 
 ## Calculating ExtractionScore
 Copy ``route_pairs.txt`` into your ``MolecularTransformer`` directory and activate the appropriate Python environment. Then, run ``extractionscore.py``. Detailed output will be written to ``extractionscorelog.txt``. Stereoisomers of the intended product that do not match the recorded product will result in a manual prompt so that you can verify that no stereocenters have been incorrectly switched. The code to draw reactions is based heavily on a [script](https://github.com/connorcoley/retrosim/blob/master/retrosim/utils/draw.py) by Connor Coley. If the VCC Lab website is down, one workaround is to write a file with SMILES for all your species and use the ALOGPS implementation hosted by [OCHEM](https://ochem.eu/home/show.do) to estimate partition coefficients instead.
+
+## Visualizing synthesis routes
+A convenient way to visualize synthesis routes is with the free [ChemDraw Direct](https://chemdrawdirect.perkinelmer.cloud/js/sample/index.html#) online tool. Select "Structure > Load SMILES" from the ribbon and paste a SMILES string into the field. This is the method we have used for our work. Alternatively, one could modify the reaction drawing code to visualize synthesis routes.
