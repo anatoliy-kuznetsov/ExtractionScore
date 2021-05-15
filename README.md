@@ -1,3 +1,5 @@
+Described in our manuscript [ExtractionScore: A Quantitative Framework for Evaluating Synthetic Routes on Predicted Liquid–Liquid Extraction Performance](https://pubs.acs.org/doi/full/10.1021/acs.jcim.0c01426).
+
 ## Installation
 This project uses [rxn4chemistry](https://github.com/rxn4chemistry/rxn4chemistry) as well as [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer). To start, place ``write_synthesis_routes.py`` in the ``rxn4chemistry`` directory and ``extractionscore.py`` and the evaluation scripts in the ``MolecularTransformer`` directory. These projects have conflicting dependencies, so you should use separate environments for them.
 
